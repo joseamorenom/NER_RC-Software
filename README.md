@@ -98,7 +98,7 @@ Una vez que hayas completado la instalación y configuración, puedes ejecutar l
 
 1.  Desde la carpeta `NER_RC`, navega hasta la ubicación del script de la interfaz gráfica:
     ```bash
-    cd src/grap
+    cd NER_RC
     ```
 
 2.  Ejecuta la aplicación con Python:
