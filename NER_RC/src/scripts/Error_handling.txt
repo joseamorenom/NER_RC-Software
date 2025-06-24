@@ -1,0 +1,15 @@
+1 Error loading tagger
+2 Error loading document
+3 Format Error in document
+4 Empty folder for training
+5 Error loading embeddings in training
+6 Error making tagger in training
+7 Error training the model
+8 Invalid input document in training 
+9 Document does not exists
+10 Model does not exists 
+11 Error in output JSON
+12 Error making up the data 
+13 Error defining the model
+
+

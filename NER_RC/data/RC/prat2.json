@@ -1,0 +1,3737 @@
+{
+  "id" : "0b6deb20-85e8-11e8-a22e-dfff0e4dee48-0",
+  "name" : "180712-9003444858-CertificadoCamaraComercio.txt",
+  "createdDate" : 1531409230546,
+  "version" : 3,
+  "text" : "Cámara de Comercio Ubicación y contacto Comercial Notificación Dirección Departamento Ciudad Código Postal Teléfono Fax Correo AC 72 NO. 72 A 09 BOGOTA D.C. BOGOTA D.C. 913 4344202 4344202 cmundoyesos@hotmail.co Dirección Departamento Ciudad Código Postal Teléfono Fax Correo AC 72 NO. 72 A 09 BOGOTA D.C. BOGOTA D.C. 913 4344202 4344202 cmundoyesos@hotmail.co Dirección Web Aporte en Activos Aporte en Dinero Aporte Laborales Aporte Laboral 0,00 Capital Autorizado 0,00 Capital Suscrito 0,00 Capital Pagado 0,00 0,00 0,00 0,00 Adicional Nombre Referencia AV VILLAS BANCOLOMBIA Dirección Referencia Teléfono ESTRADA FERIAS * NS- 宴 Nro. de establecimientos (1) LA INFORMACIÓN QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA 2 de 5  Cámara de Comercio de Bogotá CREACIONES MUNDO YESOS Identificación Nro. Matrícula Sigla Identificación Propietario Grupo Empresarial 02565870 Cámara Comercio Bogotá No tiene Categoría Empresa Sin Cate Propietario del establecimiento de comercio Identificación No tiene Razón social Propietario No tiene Ubicación y contacto Comercial Notificación Dirección Departamento comercial BOGOTA D.C. Ciudad Comercial Código Postal Teléfono Fax Correo Dirección Web AC 72 NO. 72A - 09 Dirección Departamento Ciudad Código Postal Teléfono Fax AC 72 NO. 72 A - 09 BOGOTA D.C. BOGOTA D.C. 913 BOGOTA D.C 913 4344202 CMUNDOYESOS@HOTMAIL.COM Correo CMUNDOYESOS@HOTMAIL Dirección Web Estado de la matrícula Fecha de Matrícula Fecha de Cancelación Actividad Económica 23/04/2015 Fecha de Renovación 30/03/2017 Estado Matrícula Activa COMERCIO AL POR MENOR DE OTROS PRODUCTOS NUEVOS EN ESTABLECIMIENTOS Activos Vinculados 5.000.000 LA INFORMACION QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA 4 de 5  Cámara de Comercio de Bogotá Registro mercantil-Informe básico ' el teyme 、 LA INFORMACION QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA 3 de 5  Cámara de Comercio de Bogotá Registro mercantil - Informe básico Representantes legales Número Documento Numero de Cuotas Documento Nombre Cargo Valor Aportes DUQUE FRANCO WILSON ALBERTO Cedula de ciudadanía 80036878 representante Legal 6356015 DUQUE SANABRIA Representación HUMBERTO Legal Socio 15.000.000 150 DUQUE SANABRIA HUMBERTO 6356015 DUQUE FRANCO Socio WILSON ALBERTO itt 15.000.000 150 80036878 LA INFORMACION QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA 5 de 5  Cámara de Comercio de Bogotá Registro mercantil Informe básico CREACIONES MUNDO YESOS LTDA Nit 9003444258 Identificación Número Matrícula 01970931 Cámara Comercio Bogotá Sigla Organización Jurídica Grupo Empresarial Estado de la matrícula Categoría Empresa Tipo de Régimen Limitada Principal No tiene SIN REGIMEN Fecha de la Matrícula 05/03/2010 Ultima Renovación Indicador de Liquidación Cantidad de Personal3 Fecha de Cancelación Estado Matrícula Estado Actual de la Empresa Estado de Afiliación 30/03/2017 estado:  Activa No liquidada Activa No afiliado Sin Data Embargo No Embargado Importa y Exporta Concordato Año Renovado Anterior 2016 Fecha Renovó Año Anterior Fecha Renovó Año Anterior Fecha Renovó Año Anterior Fecha Renovó Año Anterior 09/03/2016 05/03/2015 28/03/2014 04/04/2013 Año Renovado Anterior 2015 Año Renovado Anterior 2014 Año Renovado Anterior 2013 Información actividad económica : .\" Código CIIU 4752 COMERCIO AL POR MENOR DE ARTÍCULOS DE FERRETERÍA, PINTURAS Y PRODUCTOS DE VIDRIO EN ESTABLECIMIENTOS ESPECIALIZADOS FABRICACIÓN DE Artículos DE HORMIGÓN, CEMENTO y Yeso 2395 LA INFORMACION QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA \r\n",
+  "docLength" : 0,
+  "language" : "ES",
+  "status" : "READY",
+  "modifiedDate" : 1533919609558,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 136,
+    "text" : "Cámara de Comercio Ubicación y contacto Comercial Notificación Dirección Departamento Ciudad Código Postal Teléfono Fax Correo AC 72 NO.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 6,
+      "text" : "Cámara",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 7,
+      "end" : 9,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 10,
+      "end" : 18,
+      "text" : "Comercio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 19,
+      "end" : 28,
+      "text" : "Ubicación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 29,
+      "end" : 30,
+      "text" : "y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 31,
+      "end" : 39,
+      "text" : "contacto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 40,
+      "end" : 49,
+      "text" : "Comercial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 50,
+      "end" : 62,
+      "text" : "Notificación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 63,
+      "end" : 72,
+      "text" : "Dirección",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 73,
+      "end" : 85,
+      "text" : "Departamento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 86,
+      "end" : 92,
+      "text" : "Ciudad",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 93,
+      "end" : 99,
+      "text" : "Código",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 100,
+      "end" : 106,
+      "text" : "Postal",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 107,
+      "end" : 115,
+      "text" : "Teléfono",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 116,
+      "end" : 119,
+      "text" : "Fax",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 120,
+      "end" : 126,
+      "text" : "Correo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 127,
+      "end" : 129,
+      "text" : "AC",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 130,
+      "end" : 132,
+      "text" : "72",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 133,
+      "end" : 135,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 135,
+      "end" : 136,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 137,
+    "end" : 285,
+    "text" : "72 A 09 BOGOTA D.C. BOGOTA D.C. 913 4344202 4344202 cmundoyesos@hotmail.co Dirección Departamento Ciudad Código Postal Teléfono Fax Correo AC 72 NO.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 137,
+      "end" : 139,
+      "text" : "72",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 140,
+      "end" : 141,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 142,
+      "end" : 144,
+      "text" : "09",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 145,
+      "end" : 151,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 152,
+      "end" : 156,
+      "text" : "D.C.",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 157,
+      "end" : 163,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 164,
+      "end" : 168,
+      "text" : "D.C.",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 169,
+      "end" : 172,
+      "text" : "913",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 173,
+      "end" : 180,
+      "text" : "4344202",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 181,
+      "end" : 188,
+      "text" : "4344202",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 189,
+      "end" : 211,
+      "text" : "cmundoyesos@hotmail.co",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 212,
+      "end" : 221,
+      "text" : "Dirección",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 222,
+      "end" : 234,
+      "text" : "Departamento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 235,
+      "end" : 241,
+      "text" : "Ciudad",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 242,
+      "end" : 248,
+      "text" : "Código",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 249,
+      "end" : 255,
+      "text" : "Postal",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 256,
+      "end" : 264,
+      "text" : "Teléfono",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 265,
+      "end" : 268,
+      "text" : "Fax",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 269,
+      "end" : 275,
+      "text" : "Correo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 276,
+      "end" : 278,
+      "text" : "AC",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 279,
+      "end" : 281,
+      "text" : "72",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 282,
+      "end" : 284,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t22",
+      "begin" : 284,
+      "end" : 285,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 286,
+    "end" : 635,
+    "text" : "72 A 09 BOGOTA D.C. BOGOTA D.C. 913 4344202 4344202 cmundoyesos@hotmail.co Dirección Web Aporte en Activos Aporte en Dinero Aporte Laborales Aporte Laboral 0,00 Capital Autorizado 0,00 Capital Suscrito 0,00 Capital Pagado 0,00 0,00 0,00 0,00 Adicional Nombre Referencia AV VILLAS BANCOLOMBIA Dirección Referencia Teléfono ESTRADA FERIAS * NS- 宴 Nro.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 286,
+      "end" : 288,
+      "text" : "72",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 289,
+      "end" : 290,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 291,
+      "end" : 293,
+      "text" : "09",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 294,
+      "end" : 300,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 301,
+      "end" : 305,
+      "text" : "D.C.",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 306,
+      "end" : 312,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 313,
+      "end" : 317,
+      "text" : "D.C.",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 318,
+      "end" : 321,
+      "text" : "913",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 322,
+      "end" : 329,
+      "text" : "4344202",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 330,
+      "end" : 337,
+      "text" : "4344202",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 338,
+      "end" : 360,
+      "text" : "cmundoyesos@hotmail.co",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t11",
+      "begin" : 361,
+      "end" : 370,
+      "text" : "Dirección",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t12",
+      "begin" : 371,
+      "end" : 374,
+      "text" : "Web",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t13",
+      "begin" : 375,
+      "end" : 381,
+      "text" : "Aporte",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t14",
+      "begin" : 382,
+      "end" : 384,
+      "text" : "en",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t15",
+      "begin" : 385,
+      "end" : 392,
+      "text" : "Activos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t16",
+      "begin" : 393,
+      "end" : 399,
+      "text" : "Aporte",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t17",
+      "begin" : 400,
+      "end" : 402,
+      "text" : "en",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t18",
+      "begin" : 403,
+      "end" : 409,
+      "text" : "Dinero",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t19",
+      "begin" : 410,
+      "end" : 416,
+      "text" : "Aporte",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t20",
+      "begin" : 417,
+      "end" : 426,
+      "text" : "Laborales",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t21",
+      "begin" : 427,
+      "end" : 433,
+      "text" : "Aporte",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t22",
+      "begin" : 434,
+      "end" : 441,
+      "text" : "Laboral",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t23",
+      "begin" : 442,
+      "end" : 446,
+      "text" : "0,00",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t24",
+      "begin" : 447,
+      "end" : 454,
+      "text" : "Capital",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t25",
+      "begin" : 455,
+      "end" : 465,
+      "text" : "Autorizado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t26",
+      "begin" : 466,
+      "end" : 470,
+      "text" : "0,00",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t27",
+      "begin" : 471,
+      "end" : 478,
+      "text" : "Capital",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t28",
+      "begin" : 479,
+      "end" : 487,
+      "text" : "Suscrito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t29",
+      "begin" : 488,
+      "end" : 492,
+      "text" : "0,00",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t30",
+      "begin" : 493,
+      "end" : 500,
+      "text" : "Capital",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t31",
+      "begin" : 501,
+      "end" : 507,
+      "text" : "Pagado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t32",
+      "begin" : 508,
+      "end" : 512,
+      "text" : "0,00",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t33",
+      "begin" : 513,
+      "end" : 517,
+      "text" : "0,00",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t34",
+      "begin" : 518,
+      "end" : 522,
+      "text" : "0,00",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t35",
+      "begin" : 523,
+      "end" : 527,
+      "text" : "0,00",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t36",
+      "begin" : 528,
+      "end" : 537,
+      "text" : "Adicional",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t37",
+      "begin" : 538,
+      "end" : 544,
+      "text" : "Nombre",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t38",
+      "begin" : 545,
+      "end" : 555,
+      "text" : "Referencia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t39",
+      "begin" : 556,
+      "end" : 558,
+      "text" : "AV",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t40",
+      "begin" : 559,
+      "end" : 565,
+      "text" : "VILLAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t41",
+      "begin" : 566,
+      "end" : 577,
+      "text" : "BANCOLOMBIA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t42",
+      "begin" : 578,
+      "end" : 587,
+      "text" : "Dirección",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t43",
+      "begin" : 588,
+      "end" : 598,
+      "text" : "Referencia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t44",
+      "begin" : 599,
+      "end" : 607,
+      "text" : "Teléfono",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t45",
+      "begin" : 608,
+      "end" : 615,
+      "text" : "ESTRADA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t46",
+      "begin" : 616,
+      "end" : 622,
+      "text" : "FERIAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t47",
+      "begin" : 623,
+      "end" : 624,
+      "text" : "*",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t48",
+      "begin" : 625,
+      "end" : 627,
+      "text" : "NS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t49",
+      "begin" : 627,
+      "end" : 628,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t50",
+      "begin" : 629,
+      "end" : 630,
+      "text" : "宴",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t51",
+      "begin" : 631,
+      "end" : 634,
+      "text" : "Nro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t52",
+      "begin" : 634,
+      "end" : 635,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s3",
+    "begin" : 636,
+    "end" : 849,
+    "text" : "de establecimientos (1) LA INFORMACIÓN QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA 2 de 5  Cámara de Comercio de Bogotá CREACIONES MUNDO YESOS Identificación Nro.",
+    "tokens" : [ {
+      "id" : "s3-t0",
+      "begin" : 636,
+      "end" : 638,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t1",
+      "begin" : 639,
+      "end" : 655,
+      "text" : "establecimientos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t2",
+      "begin" : 656,
+      "end" : 657,
+      "text" : "(",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t3",
+      "begin" : 657,
+      "end" : 658,
+      "text" : "1",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t4",
+      "begin" : 658,
+      "end" : 659,
+      "text" : ")",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t5",
+      "begin" : 660,
+      "end" : 662,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t6",
+      "begin" : 663,
+      "end" : 674,
+      "text" : "INFORMACIÓN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t7",
+      "begin" : 675,
+      "end" : 678,
+      "text" : "QUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t8",
+      "begin" : 679,
+      "end" : 685,
+      "text" : "FIGURA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t9",
+      "begin" : 686,
+      "end" : 688,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t10",
+      "begin" : 689,
+      "end" : 695,
+      "text" : "BLANCO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t11",
+      "begin" : 696,
+      "end" : 702,
+      "text" : "DENTRO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t12",
+      "begin" : 703,
+      "end" : 706,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t13",
+      "begin" : 707,
+      "end" : 714,
+      "text" : "REPORTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t14",
+      "begin" : 714,
+      "end" : 715,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t15",
+      "begin" : 716,
+      "end" : 727,
+      "text" : "CORRESPONDE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t16",
+      "begin" : 728,
+      "end" : 729,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t17",
+      "begin" : 730,
+      "end" : 741,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t18",
+      "begin" : 742,
+      "end" : 744,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t19",
+      "begin" : 745,
+      "end" : 754,
+      "text" : "REPORTADA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t20",
+      "begin" : 755,
+      "end" : 758,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t21",
+      "begin" : 759,
+      "end" : 761,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t22",
+      "begin" : 762,
+      "end" : 769,
+      "text" : "EMPRESA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t23",
+      "begin" : 770,
+      "end" : 771,
+      "text" : "2",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t24",
+      "begin" : 772,
+      "end" : 774,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t25",
+      "begin" : 775,
+      "end" : 776,
+      "text" : "5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t26",
+      "begin" : 778,
+      "end" : 784,
+      "text" : "Cámara",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t27",
+      "begin" : 785,
+      "end" : 787,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t28",
+      "begin" : 788,
+      "end" : 796,
+      "text" : "Comercio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t29",
+      "begin" : 797,
+      "end" : 799,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t30",
+      "begin" : 800,
+      "end" : 806,
+      "text" : "Bogotá",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t31",
+      "begin" : 807,
+      "end" : 817,
+      "text" : "CREACIONES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t32",
+      "begin" : 818,
+      "end" : 823,
+      "text" : "MUNDO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t33",
+      "begin" : 824,
+      "end" : 829,
+      "text" : "YESOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t34",
+      "begin" : 830,
+      "end" : 844,
+      "text" : "Identificación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t35",
+      "begin" : 845,
+      "end" : 848,
+      "text" : "Nro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t36",
+      "begin" : 848,
+      "end" : 849,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s4",
+    "begin" : 850,
+    "end" : 1244,
+    "text" : "Matrícula Sigla Identificación Propietario Grupo Empresarial 02565870 Cámara Comercio Bogotá No tiene Categoría Empresa Sin Cate Propietario del establecimiento de comercio Identificación No tiene Razón social Propietario No tiene Ubicación y contacto Comercial Notificación Dirección Departamento comercial BOGOTA D.C. Ciudad Comercial Código Postal Teléfono Fax Correo Dirección Web AC 72 NO.",
+    "tokens" : [ {
+      "id" : "s4-t0",
+      "begin" : 850,
+      "end" : 859,
+      "text" : "Matrícula",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t1",
+      "begin" : 860,
+      "end" : 865,
+      "text" : "Sigla",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t2",
+      "begin" : 866,
+      "end" : 880,
+      "text" : "Identificación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t3",
+      "begin" : 881,
+      "end" : 892,
+      "text" : "Propietario",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t4",
+      "begin" : 893,
+      "end" : 898,
+      "text" : "Grupo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t5",
+      "begin" : 899,
+      "end" : 910,
+      "text" : "Empresarial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t6",
+      "begin" : 911,
+      "end" : 919,
+      "text" : "02565870",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t7",
+      "begin" : 920,
+      "end" : 926,
+      "text" : "Cámara",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t8",
+      "begin" : 927,
+      "end" : 935,
+      "text" : "Comercio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t9",
+      "begin" : 936,
+      "end" : 942,
+      "text" : "Bogotá",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t10",
+      "begin" : 943,
+      "end" : 945,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t11",
+      "begin" : 946,
+      "end" : 951,
+      "text" : "tiene",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t12",
+      "begin" : 952,
+      "end" : 961,
+      "text" : "Categoría",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t13",
+      "begin" : 962,
+      "end" : 969,
+      "text" : "Empresa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t14",
+      "begin" : 970,
+      "end" : 973,
+      "text" : "Sin",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t15",
+      "begin" : 974,
+      "end" : 978,
+      "text" : "Cate",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t16",
+      "begin" : 979,
+      "end" : 990,
+      "text" : "Propietario",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t17",
+      "begin" : 991,
+      "end" : 994,
+      "text" : "del",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t18",
+      "begin" : 995,
+      "end" : 1010,
+      "text" : "establecimiento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t19",
+      "begin" : 1011,
+      "end" : 1013,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t20",
+      "begin" : 1014,
+      "end" : 1022,
+      "text" : "comercio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t21",
+      "begin" : 1023,
+      "end" : 1037,
+      "text" : "Identificación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t22",
+      "begin" : 1038,
+      "end" : 1040,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t23",
+      "begin" : 1041,
+      "end" : 1046,
+      "text" : "tiene",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t24",
+      "begin" : 1047,
+      "end" : 1052,
+      "text" : "Razón",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t25",
+      "begin" : 1053,
+      "end" : 1059,
+      "text" : "social",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t26",
+      "begin" : 1060,
+      "end" : 1071,
+      "text" : "Propietario",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t27",
+      "begin" : 1072,
+      "end" : 1074,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t28",
+      "begin" : 1075,
+      "end" : 1080,
+      "text" : "tiene",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t29",
+      "begin" : 1081,
+      "end" : 1090,
+      "text" : "Ubicación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t30",
+      "begin" : 1091,
+      "end" : 1092,
+      "text" : "y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t31",
+      "begin" : 1093,
+      "end" : 1101,
+      "text" : "contacto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t32",
+      "begin" : 1102,
+      "end" : 1111,
+      "text" : "Comercial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t33",
+      "begin" : 1112,
+      "end" : 1124,
+      "text" : "Notificación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t34",
+      "begin" : 1125,
+      "end" : 1134,
+      "text" : "Dirección",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t35",
+      "begin" : 1135,
+      "end" : 1147,
+      "text" : "Departamento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t36",
+      "begin" : 1148,
+      "end" : 1157,
+      "text" : "comercial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t37",
+      "begin" : 1158,
+      "end" : 1164,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t38",
+      "begin" : 1165,
+      "end" : 1169,
+      "text" : "D.C.",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t39",
+      "begin" : 1170,
+      "end" : 1176,
+      "text" : "Ciudad",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t40",
+      "begin" : 1177,
+      "end" : 1186,
+      "text" : "Comercial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t41",
+      "begin" : 1187,
+      "end" : 1193,
+      "text" : "Código",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t42",
+      "begin" : 1194,
+      "end" : 1200,
+      "text" : "Postal",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t43",
+      "begin" : 1201,
+      "end" : 1209,
+      "text" : "Teléfono",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t44",
+      "begin" : 1210,
+      "end" : 1213,
+      "text" : "Fax",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t45",
+      "begin" : 1214,
+      "end" : 1220,
+      "text" : "Correo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t46",
+      "begin" : 1221,
+      "end" : 1230,
+      "text" : "Dirección",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t47",
+      "begin" : 1231,
+      "end" : 1234,
+      "text" : "Web",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t48",
+      "begin" : 1235,
+      "end" : 1237,
+      "text" : "AC",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t49",
+      "begin" : 1238,
+      "end" : 1240,
+      "text" : "72",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t50",
+      "begin" : 1241,
+      "end" : 1243,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t51",
+      "begin" : 1243,
+      "end" : 1244,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s5",
+    "begin" : 1245,
+    "end" : 1320,
+    "text" : "72A - 09 Dirección Departamento Ciudad Código Postal Teléfono Fax AC 72 NO.",
+    "tokens" : [ {
+      "id" : "s5-t0",
+      "begin" : 1245,
+      "end" : 1248,
+      "text" : "72A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t1",
+      "begin" : 1249,
+      "end" : 1250,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t2",
+      "begin" : 1251,
+      "end" : 1253,
+      "text" : "09",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t3",
+      "begin" : 1254,
+      "end" : 1263,
+      "text" : "Dirección",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t4",
+      "begin" : 1264,
+      "end" : 1276,
+      "text" : "Departamento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t5",
+      "begin" : 1277,
+      "end" : 1283,
+      "text" : "Ciudad",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t6",
+      "begin" : 1284,
+      "end" : 1290,
+      "text" : "Código",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t7",
+      "begin" : 1291,
+      "end" : 1297,
+      "text" : "Postal",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t8",
+      "begin" : 1298,
+      "end" : 1306,
+      "text" : "Teléfono",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t9",
+      "begin" : 1307,
+      "end" : 1310,
+      "text" : "Fax",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t10",
+      "begin" : 1311,
+      "end" : 1313,
+      "text" : "AC",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t11",
+      "begin" : 1314,
+      "end" : 1316,
+      "text" : "72",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t12",
+      "begin" : 1317,
+      "end" : 1319,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t13",
+      "begin" : 1319,
+      "end" : 1320,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s6",
+    "begin" : 1321,
+    "end" : 2054,
+    "text" : "72 A - 09 BOGOTA D.C. BOGOTA D.C. 913 BOGOTA D.C 913 4344202 CMUNDOYESOS@HOTMAIL.COM Correo CMUNDOYESOS@HOTMAIL Dirección Web Estado de la matrícula Fecha de Matrícula Fecha de Cancelación Actividad Económica 23/04/2015 Fecha de Renovación 30/03/2017 Estado Matrícula Activa COMERCIO AL POR MENOR DE OTROS PRODUCTOS NUEVOS EN ESTABLECIMIENTOS Activos Vinculados 5.000.000 LA INFORMACION QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA 4 de 5  Cámara de Comercio de Bogotá Registro mercantil-Informe básico ' el teyme 、 LA INFORMACION QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA 3 de 5  Cámara de Comercio de Bogotá Registro mercantil -",
+    "tokens" : [ {
+      "id" : "s6-t0",
+      "begin" : 1321,
+      "end" : 1323,
+      "text" : "72",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t1",
+      "begin" : 1324,
+      "end" : 1325,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t2",
+      "begin" : 1326,
+      "end" : 1327,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t3",
+      "begin" : 1328,
+      "end" : 1330,
+      "text" : "09",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t4",
+      "begin" : 1331,
+      "end" : 1337,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t5",
+      "begin" : 1338,
+      "end" : 1342,
+      "text" : "D.C.",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t6",
+      "begin" : 1343,
+      "end" : 1349,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t7",
+      "begin" : 1350,
+      "end" : 1354,
+      "text" : "D.C.",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t8",
+      "begin" : 1355,
+      "end" : 1358,
+      "text" : "913",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t9",
+      "begin" : 1359,
+      "end" : 1365,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t10",
+      "begin" : 1366,
+      "end" : 1369,
+      "text" : "D.C",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t11",
+      "begin" : 1370,
+      "end" : 1373,
+      "text" : "913",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t12",
+      "begin" : 1374,
+      "end" : 1381,
+      "text" : "4344202",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t13",
+      "begin" : 1382,
+      "end" : 1405,
+      "text" : "CMUNDOYESOS@HOTMAIL.COM",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t14",
+      "begin" : 1406,
+      "end" : 1412,
+      "text" : "Correo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t15",
+      "begin" : 1413,
+      "end" : 1432,
+      "text" : "CMUNDOYESOS@HOTMAIL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t16",
+      "begin" : 1433,
+      "end" : 1442,
+      "text" : "Dirección",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t17",
+      "begin" : 1443,
+      "end" : 1446,
+      "text" : "Web",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t18",
+      "begin" : 1447,
+      "end" : 1453,
+      "text" : "Estado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t19",
+      "begin" : 1454,
+      "end" : 1456,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t20",
+      "begin" : 1457,
+      "end" : 1459,
+      "text" : "la",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t21",
+      "begin" : 1460,
+      "end" : 1469,
+      "text" : "matrícula",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t22",
+      "begin" : 1470,
+      "end" : 1475,
+      "text" : "Fecha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t23",
+      "begin" : 1476,
+      "end" : 1478,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t24",
+      "begin" : 1479,
+      "end" : 1488,
+      "text" : "Matrícula",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t25",
+      "begin" : 1489,
+      "end" : 1494,
+      "text" : "Fecha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t26",
+      "begin" : 1495,
+      "end" : 1497,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t27",
+      "begin" : 1498,
+      "end" : 1509,
+      "text" : "Cancelación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t28",
+      "begin" : 1510,
+      "end" : 1519,
+      "text" : "Actividad",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t29",
+      "begin" : 1520,
+      "end" : 1529,
+      "text" : "Económica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t30",
+      "begin" : 1530,
+      "end" : 1540,
+      "text" : "23/04/2015",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t31",
+      "begin" : 1541,
+      "end" : 1546,
+      "text" : "Fecha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t32",
+      "begin" : 1547,
+      "end" : 1549,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t33",
+      "begin" : 1550,
+      "end" : 1560,
+      "text" : "Renovación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t34",
+      "begin" : 1561,
+      "end" : 1571,
+      "text" : "30/03/2017",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t35",
+      "begin" : 1572,
+      "end" : 1578,
+      "text" : "Estado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t36",
+      "begin" : 1579,
+      "end" : 1588,
+      "text" : "Matrícula",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t37",
+      "begin" : 1589,
+      "end" : 1595,
+      "text" : "Activa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t38",
+      "begin" : 1596,
+      "end" : 1604,
+      "text" : "COMERCIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t39",
+      "begin" : 1605,
+      "end" : 1607,
+      "text" : "AL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t40",
+      "begin" : 1608,
+      "end" : 1611,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t41",
+      "begin" : 1612,
+      "end" : 1617,
+      "text" : "MENOR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t42",
+      "begin" : 1618,
+      "end" : 1620,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t43",
+      "begin" : 1621,
+      "end" : 1626,
+      "text" : "OTROS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t44",
+      "begin" : 1627,
+      "end" : 1636,
+      "text" : "PRODUCTOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t45",
+      "begin" : 1637,
+      "end" : 1643,
+      "text" : "NUEVOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t46",
+      "begin" : 1644,
+      "end" : 1646,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t47",
+      "begin" : 1647,
+      "end" : 1663,
+      "text" : "ESTABLECIMIENTOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t48",
+      "begin" : 1664,
+      "end" : 1671,
+      "text" : "Activos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t49",
+      "begin" : 1672,
+      "end" : 1682,
+      "text" : "Vinculados",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t50",
+      "begin" : 1683,
+      "end" : 1692,
+      "text" : "5.000.000",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t51",
+      "begin" : 1693,
+      "end" : 1695,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t52",
+      "begin" : 1696,
+      "end" : 1707,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t53",
+      "begin" : 1708,
+      "end" : 1711,
+      "text" : "QUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t54",
+      "begin" : 1712,
+      "end" : 1718,
+      "text" : "FIGURA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t55",
+      "begin" : 1719,
+      "end" : 1721,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t56",
+      "begin" : 1722,
+      "end" : 1728,
+      "text" : "BLANCO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t57",
+      "begin" : 1729,
+      "end" : 1735,
+      "text" : "DENTRO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t58",
+      "begin" : 1736,
+      "end" : 1739,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t59",
+      "begin" : 1740,
+      "end" : 1747,
+      "text" : "REPORTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t60",
+      "begin" : 1747,
+      "end" : 1748,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t61",
+      "begin" : 1749,
+      "end" : 1760,
+      "text" : "CORRESPONDE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t62",
+      "begin" : 1761,
+      "end" : 1762,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t63",
+      "begin" : 1763,
+      "end" : 1774,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t64",
+      "begin" : 1775,
+      "end" : 1777,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t65",
+      "begin" : 1778,
+      "end" : 1787,
+      "text" : "REPORTADA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t66",
+      "begin" : 1788,
+      "end" : 1791,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t67",
+      "begin" : 1792,
+      "end" : 1794,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t68",
+      "begin" : 1795,
+      "end" : 1802,
+      "text" : "EMPRESA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t69",
+      "begin" : 1803,
+      "end" : 1804,
+      "text" : "4",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t70",
+      "begin" : 1805,
+      "end" : 1807,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t71",
+      "begin" : 1808,
+      "end" : 1809,
+      "text" : "5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t72",
+      "begin" : 1811,
+      "end" : 1817,
+      "text" : "Cámara",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t73",
+      "begin" : 1818,
+      "end" : 1820,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t74",
+      "begin" : 1821,
+      "end" : 1829,
+      "text" : "Comercio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t75",
+      "begin" : 1830,
+      "end" : 1832,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t76",
+      "begin" : 1833,
+      "end" : 1839,
+      "text" : "Bogotá",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t77",
+      "begin" : 1840,
+      "end" : 1848,
+      "text" : "Registro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t78",
+      "begin" : 1849,
+      "end" : 1858,
+      "text" : "mercantil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t79",
+      "begin" : 1858,
+      "end" : 1859,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t80",
+      "begin" : 1859,
+      "end" : 1866,
+      "text" : "Informe",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t81",
+      "begin" : 1867,
+      "end" : 1873,
+      "text" : "básico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t82",
+      "begin" : 1874,
+      "end" : 1875,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t83",
+      "begin" : 1876,
+      "end" : 1878,
+      "text" : "el",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t84",
+      "begin" : 1879,
+      "end" : 1884,
+      "text" : "teyme",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t85",
+      "begin" : 1885,
+      "end" : 1886,
+      "text" : "、",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t86",
+      "begin" : 1887,
+      "end" : 1889,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t87",
+      "begin" : 1890,
+      "end" : 1901,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t88",
+      "begin" : 1902,
+      "end" : 1905,
+      "text" : "QUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t89",
+      "begin" : 1906,
+      "end" : 1912,
+      "text" : "FIGURA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t90",
+      "begin" : 1913,
+      "end" : 1915,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t91",
+      "begin" : 1916,
+      "end" : 1922,
+      "text" : "BLANCO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t92",
+      "begin" : 1923,
+      "end" : 1929,
+      "text" : "DENTRO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t93",
+      "begin" : 1930,
+      "end" : 1933,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t94",
+      "begin" : 1934,
+      "end" : 1941,
+      "text" : "REPORTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t95",
+      "begin" : 1941,
+      "end" : 1942,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t96",
+      "begin" : 1943,
+      "end" : 1954,
+      "text" : "CORRESPONDE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t97",
+      "begin" : 1955,
+      "end" : 1956,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t98",
+      "begin" : 1957,
+      "end" : 1968,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t99",
+      "begin" : 1969,
+      "end" : 1971,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t100",
+      "begin" : 1972,
+      "end" : 1981,
+      "text" : "REPORTADA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t101",
+      "begin" : 1982,
+      "end" : 1985,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t102",
+      "begin" : 1986,
+      "end" : 1988,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t103",
+      "begin" : 1989,
+      "end" : 1996,
+      "text" : "EMPRESA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t104",
+      "begin" : 1997,
+      "end" : 1998,
+      "text" : "3",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t105",
+      "begin" : 1999,
+      "end" : 2001,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t106",
+      "begin" : 2002,
+      "end" : 2003,
+      "text" : "5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t107",
+      "begin" : 2005,
+      "end" : 2011,
+      "text" : "Cámara",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t108",
+      "begin" : 2012,
+      "end" : 2014,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t109",
+      "begin" : 2015,
+      "end" : 2023,
+      "text" : "Comercio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t110",
+      "begin" : 2024,
+      "end" : 2026,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t111",
+      "begin" : 2027,
+      "end" : 2033,
+      "text" : "Bogotá",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t112",
+      "begin" : 2034,
+      "end" : 2042,
+      "text" : "Registro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t113",
+      "begin" : 2043,
+      "end" : 2052,
+      "text" : "mercantil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t114",
+      "begin" : 2053,
+      "end" : 2054,
+      "text" : "-",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s7",
+    "begin" : 2055,
+    "end" : 3044,
+    "text" : "Informe básico Representantes legales Número Documento Numero de Cuotas Documento Nombre Cargo Valor Aportes DUQUE FRANCO WILSON ALBERTO Cedula de ciudadanía 80036878 representante Legal 6356015 DUQUE SANABRIA Representación HUMBERTO Legal Socio 15.000.000 150 DUQUE SANABRIA HUMBERTO 6356015 DUQUE FRANCO Socio WILSON ALBERTO itt 15.000.000 150 80036878 LA INFORMACION QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA 5 de 5  Cámara de Comercio de Bogotá Registro mercantil Informe básico CREACIONES MUNDO YESOS LTDA Nit 9003444258 Identificación Número Matrícula 01970931 Cámara Comercio Bogotá Sigla Organización Jurídica Grupo Empresarial Estado de la matrícula Categoría Empresa Tipo de Régimen Limitada Principal No tiene SIN REGIMEN Fecha de la Matrícula 05/03/2010 Ultima Renovación Indicador de Liquidación Cantidad de Personal3 Fecha de Cancelación Estado Matrícula Estado Actual de la Empresa Estado de Afiliación 30/03/2017 estado:",
+    "tokens" : [ {
+      "id" : "s7-t0",
+      "begin" : 2055,
+      "end" : 2062,
+      "text" : "Informe",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t1",
+      "begin" : 2063,
+      "end" : 2069,
+      "text" : "básico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t2",
+      "begin" : 2070,
+      "end" : 2084,
+      "text" : "Representantes",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t3",
+      "begin" : 2085,
+      "end" : 2092,
+      "text" : "legales",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t4",
+      "begin" : 2093,
+      "end" : 2099,
+      "text" : "Número",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t5",
+      "begin" : 2100,
+      "end" : 2109,
+      "text" : "Documento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t6",
+      "begin" : 2110,
+      "end" : 2116,
+      "text" : "Numero",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t7",
+      "begin" : 2117,
+      "end" : 2119,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t8",
+      "begin" : 2120,
+      "end" : 2126,
+      "text" : "Cuotas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t9",
+      "begin" : 2127,
+      "end" : 2136,
+      "text" : "Documento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t10",
+      "begin" : 2137,
+      "end" : 2143,
+      "text" : "Nombre",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t11",
+      "begin" : 2144,
+      "end" : 2149,
+      "text" : "Cargo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t12",
+      "begin" : 2150,
+      "end" : 2155,
+      "text" : "Valor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t13",
+      "begin" : 2156,
+      "end" : 2163,
+      "text" : "Aportes",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t14",
+      "begin" : 2164,
+      "end" : 2169,
+      "text" : "DUQUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t15",
+      "begin" : 2170,
+      "end" : 2176,
+      "text" : "FRANCO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t16",
+      "begin" : 2177,
+      "end" : 2183,
+      "text" : "WILSON",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t17",
+      "begin" : 2184,
+      "end" : 2191,
+      "text" : "ALBERTO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t18",
+      "begin" : 2192,
+      "end" : 2198,
+      "text" : "Cedula",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t19",
+      "begin" : 2199,
+      "end" : 2201,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t20",
+      "begin" : 2202,
+      "end" : 2212,
+      "text" : "ciudadanía",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t21",
+      "begin" : 2213,
+      "end" : 2221,
+      "text" : "80036878",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t22",
+      "begin" : 2222,
+      "end" : 2235,
+      "text" : "representante",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t23",
+      "begin" : 2236,
+      "end" : 2241,
+      "text" : "Legal",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t24",
+      "begin" : 2242,
+      "end" : 2249,
+      "text" : "6356015",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t25",
+      "begin" : 2250,
+      "end" : 2255,
+      "text" : "DUQUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t26",
+      "begin" : 2256,
+      "end" : 2264,
+      "text" : "SANABRIA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t27",
+      "begin" : 2265,
+      "end" : 2279,
+      "text" : "Representación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t28",
+      "begin" : 2280,
+      "end" : 2288,
+      "text" : "HUMBERTO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t29",
+      "begin" : 2289,
+      "end" : 2294,
+      "text" : "Legal",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t30",
+      "begin" : 2295,
+      "end" : 2300,
+      "text" : "Socio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t31",
+      "begin" : 2301,
+      "end" : 2311,
+      "text" : "15.000.000",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t32",
+      "begin" : 2312,
+      "end" : 2315,
+      "text" : "150",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t33",
+      "begin" : 2316,
+      "end" : 2321,
+      "text" : "DUQUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t34",
+      "begin" : 2322,
+      "end" : 2330,
+      "text" : "SANABRIA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t35",
+      "begin" : 2331,
+      "end" : 2339,
+      "text" : "HUMBERTO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t36",
+      "begin" : 2340,
+      "end" : 2347,
+      "text" : "6356015",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t37",
+      "begin" : 2348,
+      "end" : 2353,
+      "text" : "DUQUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t38",
+      "begin" : 2354,
+      "end" : 2360,
+      "text" : "FRANCO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t39",
+      "begin" : 2361,
+      "end" : 2366,
+      "text" : "Socio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t40",
+      "begin" : 2367,
+      "end" : 2373,
+      "text" : "WILSON",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t41",
+      "begin" : 2374,
+      "end" : 2381,
+      "text" : "ALBERTO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t42",
+      "begin" : 2382,
+      "end" : 2385,
+      "text" : "itt",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t43",
+      "begin" : 2386,
+      "end" : 2396,
+      "text" : "15.000.000",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t44",
+      "begin" : 2397,
+      "end" : 2400,
+      "text" : "150",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t45",
+      "begin" : 2401,
+      "end" : 2409,
+      "text" : "80036878",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t46",
+      "begin" : 2410,
+      "end" : 2412,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t47",
+      "begin" : 2413,
+      "end" : 2424,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t48",
+      "begin" : 2425,
+      "end" : 2428,
+      "text" : "QUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t49",
+      "begin" : 2429,
+      "end" : 2435,
+      "text" : "FIGURA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t50",
+      "begin" : 2436,
+      "end" : 2438,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t51",
+      "begin" : 2439,
+      "end" : 2445,
+      "text" : "BLANCO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t52",
+      "begin" : 2446,
+      "end" : 2452,
+      "text" : "DENTRO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t53",
+      "begin" : 2453,
+      "end" : 2456,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t54",
+      "begin" : 2457,
+      "end" : 2464,
+      "text" : "REPORTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t55",
+      "begin" : 2464,
+      "end" : 2465,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t56",
+      "begin" : 2466,
+      "end" : 2477,
+      "text" : "CORRESPONDE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t57",
+      "begin" : 2478,
+      "end" : 2479,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t58",
+      "begin" : 2480,
+      "end" : 2491,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t59",
+      "begin" : 2492,
+      "end" : 2494,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t60",
+      "begin" : 2495,
+      "end" : 2504,
+      "text" : "REPORTADA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t61",
+      "begin" : 2505,
+      "end" : 2508,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t62",
+      "begin" : 2509,
+      "end" : 2511,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t63",
+      "begin" : 2512,
+      "end" : 2519,
+      "text" : "EMPRESA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t64",
+      "begin" : 2520,
+      "end" : 2521,
+      "text" : "5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t65",
+      "begin" : 2522,
+      "end" : 2524,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t66",
+      "begin" : 2525,
+      "end" : 2526,
+      "text" : "5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t67",
+      "begin" : 2528,
+      "end" : 2534,
+      "text" : "Cámara",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t68",
+      "begin" : 2535,
+      "end" : 2537,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t69",
+      "begin" : 2538,
+      "end" : 2546,
+      "text" : "Comercio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t70",
+      "begin" : 2547,
+      "end" : 2549,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t71",
+      "begin" : 2550,
+      "end" : 2556,
+      "text" : "Bogotá",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t72",
+      "begin" : 2557,
+      "end" : 2565,
+      "text" : "Registro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t73",
+      "begin" : 2566,
+      "end" : 2575,
+      "text" : "mercantil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t74",
+      "begin" : 2576,
+      "end" : 2583,
+      "text" : "Informe",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t75",
+      "begin" : 2584,
+      "end" : 2590,
+      "text" : "básico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t76",
+      "begin" : 2591,
+      "end" : 2601,
+      "text" : "CREACIONES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t77",
+      "begin" : 2602,
+      "end" : 2607,
+      "text" : "MUNDO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t78",
+      "begin" : 2608,
+      "end" : 2613,
+      "text" : "YESOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t79",
+      "begin" : 2614,
+      "end" : 2618,
+      "text" : "LTDA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t80",
+      "begin" : 2619,
+      "end" : 2622,
+      "text" : "Nit",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t81",
+      "begin" : 2623,
+      "end" : 2633,
+      "text" : "9003444258",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t82",
+      "begin" : 2634,
+      "end" : 2648,
+      "text" : "Identificación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t83",
+      "begin" : 2649,
+      "end" : 2655,
+      "text" : "Número",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t84",
+      "begin" : 2656,
+      "end" : 2665,
+      "text" : "Matrícula",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t85",
+      "begin" : 2666,
+      "end" : 2674,
+      "text" : "01970931",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t86",
+      "begin" : 2675,
+      "end" : 2681,
+      "text" : "Cámara",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t87",
+      "begin" : 2682,
+      "end" : 2690,
+      "text" : "Comercio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t88",
+      "begin" : 2691,
+      "end" : 2697,
+      "text" : "Bogotá",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t89",
+      "begin" : 2698,
+      "end" : 2703,
+      "text" : "Sigla",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t90",
+      "begin" : 2704,
+      "end" : 2716,
+      "text" : "Organización",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t91",
+      "begin" : 2717,
+      "end" : 2725,
+      "text" : "Jurídica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t92",
+      "begin" : 2726,
+      "end" : 2731,
+      "text" : "Grupo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t93",
+      "begin" : 2732,
+      "end" : 2743,
+      "text" : "Empresarial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t94",
+      "begin" : 2744,
+      "end" : 2750,
+      "text" : "Estado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t95",
+      "begin" : 2751,
+      "end" : 2753,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t96",
+      "begin" : 2754,
+      "end" : 2756,
+      "text" : "la",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t97",
+      "begin" : 2757,
+      "end" : 2766,
+      "text" : "matrícula",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t98",
+      "begin" : 2767,
+      "end" : 2776,
+      "text" : "Categoría",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t99",
+      "begin" : 2777,
+      "end" : 2784,
+      "text" : "Empresa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t100",
+      "begin" : 2785,
+      "end" : 2789,
+      "text" : "Tipo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t101",
+      "begin" : 2790,
+      "end" : 2792,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t102",
+      "begin" : 2793,
+      "end" : 2800,
+      "text" : "Régimen",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t103",
+      "begin" : 2801,
+      "end" : 2809,
+      "text" : "Limitada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t104",
+      "begin" : 2810,
+      "end" : 2819,
+      "text" : "Principal",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t105",
+      "begin" : 2820,
+      "end" : 2822,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t106",
+      "begin" : 2823,
+      "end" : 2828,
+      "text" : "tiene",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t107",
+      "begin" : 2829,
+      "end" : 2832,
+      "text" : "SIN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t108",
+      "begin" : 2833,
+      "end" : 2840,
+      "text" : "REGIMEN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t109",
+      "begin" : 2841,
+      "end" : 2846,
+      "text" : "Fecha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t110",
+      "begin" : 2847,
+      "end" : 2849,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t111",
+      "begin" : 2850,
+      "end" : 2852,
+      "text" : "la",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t112",
+      "begin" : 2853,
+      "end" : 2862,
+      "text" : "Matrícula",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t113",
+      "begin" : 2863,
+      "end" : 2873,
+      "text" : "05/03/2010",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t114",
+      "begin" : 2874,
+      "end" : 2880,
+      "text" : "Ultima",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t115",
+      "begin" : 2881,
+      "end" : 2891,
+      "text" : "Renovación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t116",
+      "begin" : 2892,
+      "end" : 2901,
+      "text" : "Indicador",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t117",
+      "begin" : 2902,
+      "end" : 2904,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t118",
+      "begin" : 2905,
+      "end" : 2916,
+      "text" : "Liquidación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t119",
+      "begin" : 2917,
+      "end" : 2925,
+      "text" : "Cantidad",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t120",
+      "begin" : 2926,
+      "end" : 2928,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t121",
+      "begin" : 2929,
+      "end" : 2938,
+      "text" : "Personal3",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t122",
+      "begin" : 2939,
+      "end" : 2944,
+      "text" : "Fecha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t123",
+      "begin" : 2945,
+      "end" : 2947,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t124",
+      "begin" : 2948,
+      "end" : 2959,
+      "text" : "Cancelación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t125",
+      "begin" : 2960,
+      "end" : 2966,
+      "text" : "Estado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t126",
+      "begin" : 2967,
+      "end" : 2976,
+      "text" : "Matrícula",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t127",
+      "begin" : 2977,
+      "end" : 2983,
+      "text" : "Estado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t128",
+      "begin" : 2984,
+      "end" : 2990,
+      "text" : "Actual",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t129",
+      "begin" : 2991,
+      "end" : 2993,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t130",
+      "begin" : 2994,
+      "end" : 2996,
+      "text" : "la",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t131",
+      "begin" : 2997,
+      "end" : 3004,
+      "text" : "Empresa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t132",
+      "begin" : 3005,
+      "end" : 3011,
+      "text" : "Estado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t133",
+      "begin" : 3012,
+      "end" : 3014,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t134",
+      "begin" : 3015,
+      "end" : 3025,
+      "text" : "Afiliación",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t135",
+      "begin" : 3026,
+      "end" : 3036,
+      "text" : "30/03/2017",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t136",
+      "begin" : 3037,
+      "end" : 3043,
+      "text" : "estado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t137",
+      "begin" : 3043,
+      "end" : 3044,
+      "text" : ":",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s8",
+    "begin" : 3046,
+    "end" : 3435,
+    "text" : "Activa No liquidada Activa No afiliado Sin Data Embargo No Embargado Importa y Exporta Concordato Año Renovado Anterior 2016 Fecha Renovó Año Anterior Fecha Renovó Año Anterior Fecha Renovó Año Anterior Fecha Renovó Año Anterior 09/03/2016 05/03/2015 28/03/2014 04/04/2013 Año Renovado Anterior 2015 Año Renovado Anterior 2014 Año Renovado Anterior 2013 Información actividad económica : .",
+    "tokens" : [ {
+      "id" : "s8-t0",
+      "begin" : 3046,
+      "end" : 3052,
+      "text" : "Activa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t1",
+      "begin" : 3053,
+      "end" : 3055,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t2",
+      "begin" : 3056,
+      "end" : 3065,
+      "text" : "liquidada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t3",
+      "begin" : 3066,
+      "end" : 3072,
+      "text" : "Activa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t4",
+      "begin" : 3073,
+      "end" : 3075,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t5",
+      "begin" : 3076,
+      "end" : 3084,
+      "text" : "afiliado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t6",
+      "begin" : 3085,
+      "end" : 3088,
+      "text" : "Sin",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t7",
+      "begin" : 3089,
+      "end" : 3093,
+      "text" : "Data",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t8",
+      "begin" : 3094,
+      "end" : 3101,
+      "text" : "Embargo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t9",
+      "begin" : 3102,
+      "end" : 3104,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t10",
+      "begin" : 3105,
+      "end" : 3114,
+      "text" : "Embargado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t11",
+      "begin" : 3115,
+      "end" : 3122,
+      "text" : "Importa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t12",
+      "begin" : 3123,
+      "end" : 3124,
+      "text" : "y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t13",
+      "begin" : 3125,
+      "end" : 3132,
+      "text" : "Exporta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t14",
+      "begin" : 3133,
+      "end" : 3143,
+      "text" : "Concordato",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t15",
+      "begin" : 3144,
+      "end" : 3147,
+      "text" : "Año",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t16",
+      "begin" : 3148,
+      "end" : 3156,
+      "text" : "Renovado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t17",
+      "begin" : 3157,
+      "end" : 3165,
+      "text" : "Anterior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t18",
+      "begin" : 3166,
+      "end" : 3170,
+      "text" : "2016",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t19",
+      "begin" : 3171,
+      "end" : 3176,
+      "text" : "Fecha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t20",
+      "begin" : 3177,
+      "end" : 3183,
+      "text" : "Renovó",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t21",
+      "begin" : 3184,
+      "end" : 3187,
+      "text" : "Año",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t22",
+      "begin" : 3188,
+      "end" : 3196,
+      "text" : "Anterior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t23",
+      "begin" : 3197,
+      "end" : 3202,
+      "text" : "Fecha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t24",
+      "begin" : 3203,
+      "end" : 3209,
+      "text" : "Renovó",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t25",
+      "begin" : 3210,
+      "end" : 3213,
+      "text" : "Año",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t26",
+      "begin" : 3214,
+      "end" : 3222,
+      "text" : "Anterior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t27",
+      "begin" : 3223,
+      "end" : 3228,
+      "text" : "Fecha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t28",
+      "begin" : 3229,
+      "end" : 3235,
+      "text" : "Renovó",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t29",
+      "begin" : 3236,
+      "end" : 3239,
+      "text" : "Año",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t30",
+      "begin" : 3240,
+      "end" : 3248,
+      "text" : "Anterior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t31",
+      "begin" : 3249,
+      "end" : 3254,
+      "text" : "Fecha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t32",
+      "begin" : 3255,
+      "end" : 3261,
+      "text" : "Renovó",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t33",
+      "begin" : 3262,
+      "end" : 3265,
+      "text" : "Año",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t34",
+      "begin" : 3266,
+      "end" : 3274,
+      "text" : "Anterior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t35",
+      "begin" : 3275,
+      "end" : 3285,
+      "text" : "09/03/2016",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t36",
+      "begin" : 3286,
+      "end" : 3296,
+      "text" : "05/03/2015",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t37",
+      "begin" : 3297,
+      "end" : 3307,
+      "text" : "28/03/2014",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t38",
+      "begin" : 3308,
+      "end" : 3318,
+      "text" : "04/04/2013",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t39",
+      "begin" : 3319,
+      "end" : 3322,
+      "text" : "Año",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t40",
+      "begin" : 3323,
+      "end" : 3331,
+      "text" : "Renovado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t41",
+      "begin" : 3332,
+      "end" : 3340,
+      "text" : "Anterior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t42",
+      "begin" : 3341,
+      "end" : 3345,
+      "text" : "2015",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t43",
+      "begin" : 3346,
+      "end" : 3349,
+      "text" : "Año",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t44",
+      "begin" : 3350,
+      "end" : 3358,
+      "text" : "Renovado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t45",
+      "begin" : 3359,
+      "end" : 3367,
+      "text" : "Anterior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t46",
+      "begin" : 3368,
+      "end" : 3372,
+      "text" : "2014",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t47",
+      "begin" : 3373,
+      "end" : 3376,
+      "text" : "Año",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t48",
+      "begin" : 3377,
+      "end" : 3385,
+      "text" : "Renovado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t49",
+      "begin" : 3386,
+      "end" : 3394,
+      "text" : "Anterior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t50",
+      "begin" : 3395,
+      "end" : 3399,
+      "text" : "2013",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t51",
+      "begin" : 3400,
+      "end" : 3411,
+      "text" : "Información",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t52",
+      "begin" : 3412,
+      "end" : 3421,
+      "text" : "actividad",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t53",
+      "begin" : 3422,
+      "end" : 3431,
+      "text" : "económica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t54",
+      "begin" : 3432,
+      "end" : 3433,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t55",
+      "begin" : 3434,
+      "end" : 3435,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s9",
+    "begin" : 3435,
+    "end" : 3737,
+    "text" : "\" Código CIIU 4752 COMERCIO AL POR MENOR DE ARTÍCULOS DE FERRETERÍA, PINTURAS Y PRODUCTOS DE VIDRIO EN ESTABLECIMIENTOS ESPECIALIZADOS FABRICACIÓN DE Artículos DE HORMIGÓN, CEMENTO y Yeso 2395 LA INFORMACION QUE FIGURA EN BLANCO DENTRO DEL REPORTE, CORRESPONDE A INFORMACION NO REPORTADA POR LA EMPRESA",
+    "tokens" : [ {
+      "id" : "s9-t0",
+      "begin" : 3435,
+      "end" : 3436,
+      "text" : "\"",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t1",
+      "begin" : 3437,
+      "end" : 3443,
+      "text" : "Código",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t2",
+      "begin" : 3444,
+      "end" : 3448,
+      "text" : "CIIU",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t3",
+      "begin" : 3449,
+      "end" : 3453,
+      "text" : "4752",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t4",
+      "begin" : 3454,
+      "end" : 3462,
+      "text" : "COMERCIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t5",
+      "begin" : 3463,
+      "end" : 3465,
+      "text" : "AL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t6",
+      "begin" : 3466,
+      "end" : 3469,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t7",
+      "begin" : 3470,
+      "end" : 3475,
+      "text" : "MENOR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t8",
+      "begin" : 3476,
+      "end" : 3478,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t9",
+      "begin" : 3479,
+      "end" : 3488,
+      "text" : "ARTÍCULOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t10",
+      "begin" : 3489,
+      "end" : 3491,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t11",
+      "begin" : 3492,
+      "end" : 3502,
+      "text" : "FERRETERÍA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t12",
+      "begin" : 3502,
+      "end" : 3503,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t13",
+      "begin" : 3504,
+      "end" : 3512,
+      "text" : "PINTURAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t14",
+      "begin" : 3513,
+      "end" : 3514,
+      "text" : "Y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t15",
+      "begin" : 3515,
+      "end" : 3524,
+      "text" : "PRODUCTOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t16",
+      "begin" : 3525,
+      "end" : 3527,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t17",
+      "begin" : 3528,
+      "end" : 3534,
+      "text" : "VIDRIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t18",
+      "begin" : 3535,
+      "end" : 3537,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t19",
+      "begin" : 3538,
+      "end" : 3554,
+      "text" : "ESTABLECIMIENTOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t20",
+      "begin" : 3555,
+      "end" : 3569,
+      "text" : "ESPECIALIZADOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t21",
+      "begin" : 3570,
+      "end" : 3581,
+      "text" : "FABRICACIÓN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t22",
+      "begin" : 3582,
+      "end" : 3584,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t23",
+      "begin" : 3585,
+      "end" : 3594,
+      "text" : "Artículos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t24",
+      "begin" : 3595,
+      "end" : 3597,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t25",
+      "begin" : 3598,
+      "end" : 3606,
+      "text" : "HORMIGÓN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t26",
+      "begin" : 3606,
+      "end" : 3607,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t27",
+      "begin" : 3608,
+      "end" : 3615,
+      "text" : "CEMENTO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t28",
+      "begin" : 3616,
+      "end" : 3617,
+      "text" : "y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t29",
+      "begin" : 3618,
+      "end" : 3622,
+      "text" : "Yeso",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t30",
+      "begin" : 3623,
+      "end" : 3627,
+      "text" : "2395",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t31",
+      "begin" : 3628,
+      "end" : 3630,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t32",
+      "begin" : 3631,
+      "end" : 3642,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t33",
+      "begin" : 3643,
+      "end" : 3646,
+      "text" : "QUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t34",
+      "begin" : 3647,
+      "end" : 3653,
+      "text" : "FIGURA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t35",
+      "begin" : 3654,
+      "end" : 3656,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t36",
+      "begin" : 3657,
+      "end" : 3663,
+      "text" : "BLANCO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t37",
+      "begin" : 3664,
+      "end" : 3670,
+      "text" : "DENTRO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t38",
+      "begin" : 3671,
+      "end" : 3674,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t39",
+      "begin" : 3675,
+      "end" : 3682,
+      "text" : "REPORTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t40",
+      "begin" : 3682,
+      "end" : 3683,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t41",
+      "begin" : 3684,
+      "end" : 3695,
+      "text" : "CORRESPONDE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t42",
+      "begin" : 3696,
+      "end" : 3697,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t43",
+      "begin" : 3698,
+      "end" : 3709,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t44",
+      "begin" : 3710,
+      "end" : 3712,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t45",
+      "begin" : 3713,
+      "end" : 3722,
+      "text" : "REPORTADA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t46",
+      "begin" : 3723,
+      "end" : 3726,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t47",
+      "begin" : 3727,
+      "end" : 3729,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t48",
+      "begin" : 3730,
+      "end" : 3737,
+      "text" : "EMPRESA",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s3-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "EMPRESA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "EMPRESA",
+    "begin" : 807,
+    "end" : 829,
+    "inCoref" : false
+  }, {
+    "id" : "s6-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "FECHA_MATRICULA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_FECHA_MATRICULA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 1530,
+    "end" : 1540,
+    "inCoref" : false
+  }, {
+    "id" : "s6-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 1561,
+    "end" : 1571,
+    "inCoref" : false
+  }, {
+    "id" : "s6-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TITULO_ESTADO_MATRICULA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TITULO_ESTADO_MATRICULA",
+    "begin" : 1572,
+    "end" : 1595,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "PERSONA_REPRESENTANTE_LEGAL",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_PERSONA_REPRESENTANTE_LEGAL",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "PERSONA",
+    "begin" : 2164,
+    "end" : 2191,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TIPO_DOCUMENTO_IDENTIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "CEDULA_CIUDADANIA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TIPO_DOCUMENTO_IDENTIDAD",
+    "begin" : 2192,
+    "end" : 2212,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DOCUMENTO_IDENTIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DOCUMENTO_IDENTIDAD",
+    "begin" : 2213,
+    "end" : 2221,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CARGO_REPRESENTANTE_LEGAL",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CARGO_REPRESENTANTE_LEGAL",
+    "begin" : 2222,
+    "end" : 2241,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m10",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_PERSONA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_PERSONA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "PERSONA",
+    "begin" : 2316,
+    "end" : 2339,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m11",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DOCUMENTO_IDENTIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DOCUMENTO_IDENTIDAD",
+    "begin" : 2340,
+    "end" : 2347,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "EMPRESA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "EMPRESA",
+    "begin" : 2591,
+    "end" : 2618,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m6",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TIPO_DOCUMENTO_IDENTIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "NIT",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TIPO_DOCUMENTO_IDENTIDAD",
+    "begin" : 2619,
+    "end" : 2622,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m7",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DOCUMENTO_IDENTIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DOCUMENTO_IDENTIDAD",
+    "begin" : 2623,
+    "end" : 2633,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m8",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TITULO_FECHA_MATRICULA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TITULO_FECHA_MATRICULA",
+    "begin" : 2841,
+    "end" : 2862,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m9",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "FECHA_MATRICULA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_FECHA_MATRICULA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 2863,
+    "end" : 2873,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m12",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 3026,
+    "end" : 3036,
+    "inCoref" : false
+  }, {
+    "id" : "s8-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TITULO_ESTADO_MATRICULA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TITULO_ESTADO_MATRICULA",
+    "begin" : 3046,
+    "end" : 3052,
+    "inCoref" : false
+  }, {
+    "id" : "s8-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 3275,
+    "end" : 3285,
+    "inCoref" : false
+  }, {
+    "id" : "s8-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 3286,
+    "end" : 3296,
+    "inCoref" : false
+  }, {
+    "id" : "s8-m6",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 3297,
+    "end" : 3307,
+    "inCoref" : false
+  }, {
+    "id" : "s8-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 3308,
+    "end" : 3318,
+    "inCoref" : false
+  }, {
+    "id" : "s8-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TITULO_ACTIVIDAD_PRINCIPAL",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TITULO_ACTIVIDAD_PRINCIPAL",
+    "begin" : 3412,
+    "end" : 3431,
+    "inCoref" : false
+  }, {
+    "id" : "s9-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACTIVIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACTIVIDAD",
+    "begin" : 3444,
+    "end" : 3622,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s7-r1",
+    "properties" : { },
+    "type" : "persona_tiene_tipo_documento_identidad",
+    "args" : [ "s7-m2", "s7-m3" ]
+  }, {
+    "id" : "s7-r2",
+    "properties" : { },
+    "type" : "documento_identidad_tiene_tipo_documento_identidad",
+    "args" : [ "s7-m4", "s7-m3" ]
+  }, {
+    "id" : "s7-r3",
+    "properties" : { },
+    "type" : "cargo_representante_ocupado_por",
+    "args" : [ "s7-m1", "s7-m2" ]
+  }, {
+    "id" : "s7-r4",
+    "properties" : { },
+    "type" : "persona_tiene_documento_identidad",
+    "args" : [ "s7-m2", "s7-m4" ]
+  }, {
+    "id" : "s7-r5",
+    "properties" : { },
+    "type" : "empresa_tiene_documento_identidad",
+    "args" : [ "s7-m5", "s7-m7" ]
+  }, {
+    "id" : "s7-r6",
+    "properties" : { },
+    "type" : "empresa_tiene_tipo_documento_identidad",
+    "args" : [ "s7-m5", "s7-m6" ]
+  }, {
+    "id" : "s7-r7",
+    "properties" : { },
+    "type" : "documento_identidad_tiene_tipo_documento_identidad",
+    "args" : [ "s7-m7", "s7-m6" ]
+  }, {
+    "id" : "s7-r8",
+    "properties" : { },
+    "type" : "es_titulo_de_fecha_matricula",
+    "args" : [ "s7-m8", "s7-m9" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

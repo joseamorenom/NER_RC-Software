@@ -1,0 +1,2961 @@
+{
+  "id" : "3cb4fa20-89cb-11e8-a485-d149999fe64b-0",
+  "name" : "180717-194459-Certificados Camara y Comercio.txt",
+  "createdDate" : 1531836662466,
+  "version" : 3,
+  "text" : "CAMARA DE COMERCIO DE BOGOTA SUPERCADE AMERICAS 21 DE NOVIEMBRE DE 2011 CAMARA DE COMEROOO DE BOGOTA CERTIFICADO DE MATRICULA DE PERSONA NATURAL LA CAMARA DE COMERCIO DE BOGOTA, CON FUNDAMENTO EN LAS MATRICULAS E INSCRIPCIONES DEL REGISTRO MERCANTIL CERTIEICA: NOMBRE RODRIGUEZ MURCIA JULIO C.C 194459 NIT: 194459-9 CERTIFICA: MATRICULA NO 00784836 DEL 23 DE ABRIL DE 1997 CERTIEICA DIRECCION DE NO IFICACION JUDICIAL : CL 54 SUR No  87G-02 MUNICIPIO BOGOTA D.C. EMAIL NOTIFICACİON JUDICIAL : CARPINTERIAMETALICAS RODRIGUEZ@HOTMAIL.CO DIRECCION COMERCIAL DG 54 NO  87G-12 MUNICIPIO : BOGOTA D.C EMAIL COMERCIAL: CARPINTERIAMETALICASRODRIGUEZCHOTMAIL.CO *ADVERTENCIA ESTOS DATOS CORRESPONDEN A LA ULTIMA INFORMACION ** SUMINISTRADA POR EL COMERCIANTE EN EL FORMULARIO DE MATRICULA* Y/O RENOVACION DEL AÑO 2010 CERTIEICA: QUE EL COMERCIANTE NO HA CUMPLIDO CON LA OBLIGACION LEGAL DE RENOVAR SU MATRICULA MERCANTIL DESDE 2011 CERTIFICA RENOVACION DE LA MATRÍCULA : EL 15 DE JUNIO DE 2010 ULTIMO AÑO RENOVADO2010 TOTAL ACTIVOS TOTAL ACTIVOS SIN AJUSTES POR INFLACION 95,000,000 ACTIVIDAD ECONOMICA FABRICACION ELEMENTOS METALICOS, ORNAMENTACION PUERTAS, VENTANAS, REJAS Y VERJAS / ALQUILER DE VEHICULOS DE CARGA CON CONDUCTOR : 120,000,000 CERTIFICA: PROPIETARIO DE LOS SIGUIENTES ESTABLECIMIENTOS DE Comercio NOMBRE CARPINTERIA METALICA RODRIGUEZ DIRECCION COMERCIAL : DG 54 SUR No  87G-02 MUNICIPIO : BOGOTA D.C MATRICULA NO 00784839 DE 23 DE ABRIL DE 1997 RENOVACION DE LA MATRICULA EL 15 DE JUNIO DE 2010 ULTIMO AÑO RENOVADO 2010 CERTIFICA LA INFORMACION ANTERIOR HA SIDO TOMADA DIRECTAMENTE DEL FORMULARIO DE MATRICULA DILIGENCIADO POR EL COMERCIANTE  DE CONFORMIDAD CON LO ESTABLECIDO POR LA LEY 962 DE 2005, LOS ACTOS DE REGISTRO-AQUI-CERTIFICADOS-'QUEDAN EN-FIRME, CINCO-H DIAS-HABI DESPUES DE LA FECHA DE INSCRIPCION, SIEMPRE QUE NO SEAN OBJETO DE RECURSOS EN LA VIA GUBERNATĪVA **EL PRESENTE CERTIFICADO NO CONSTITUYE PERMISO DE FUNCIONAMIENTO EN NINGUN CASO SEÑOR EMPRESARIO, SI SU EMPRESA TIENE ACTIVOS INFERIORES A 30.000 SMLMV Y UNA PLANTA DE PERSONAL DE MENOS DE 200 TRABAJADORES, USTED TIENE DERECHO A RECIBIR UN DESCUENTO EN EL PAGO DE LOS PARAFISCALES DE 75% EN EL PRIMER AÑO DE CONSTITUCION DE SU EMPRESA, DE 50% EN EL SEGUNDO AÑO Y DE 25% EN EL TERCER AÑO. LEY 590 DE 2000 Y DECRETO 525 DE 2009. EL SECRETARIO DE LA CAMARA DE COMERCIO, VALOR $ 1,900 DE CONFORMIDAD CON EL DECRETO 2150 DE 1995 Y LA AUTORIZACION IMPARTIDA POR LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO, MEDIANTE EL OFICIO DEL 18 DE NO IEMBRE DE 1996, LA FIRMA MECANICA QUE APARECE A CONTINUACION TIENE PLENA VALIDEZ PARA TODOS LOS EFECTOS LEGALES \"\r\n",
+  "docLength" : 0,
+  "language" : "ES",
+  "status" : "READY",
+  "modifiedDate" : 1533915143944,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 961,
+    "text" : "CAMARA DE COMERCIO DE BOGOTA SUPERCADE AMERICAS 21 DE NOVIEMBRE DE 2011 CAMARA DE COMEROOO DE BOGOTA CERTIFICADO DE MATRICULA DE PERSONA NATURAL LA CAMARA DE COMERCIO DE BOGOTA, CON FUNDAMENTO EN LAS MATRICULAS E INSCRIPCIONES DEL REGISTRO MERCANTIL CERTIEICA: NOMBRE RODRIGUEZ MURCIA JULIO C.C 194459 NIT: 194459-9 CERTIFICA: MATRICULA NO 00784836 DEL 23 DE ABRIL DE 1997 CERTIEICA DIRECCION DE NO IFICACION JUDICIAL : CL 54 SUR No  87G-02 MUNICIPIO BOGOTA D.C. EMAIL NOTIFICACİON JUDICIAL : CARPINTERIAMETALICAS RODRIGUEZ@HOTMAIL.CO DIRECCION COMERCIAL DG 54 NO  87G-12 MUNICIPIO : BOGOTA D.C EMAIL COMERCIAL: CARPINTERIAMETALICASRODRIGUEZCHOTMAIL.CO *ADVERTENCIA ESTOS DATOS CORRESPONDEN A LA ULTIMA INFORMACION ** SUMINISTRADA POR EL COMERCIANTE EN EL FORMULARIO DE MATRICULA* Y/O RENOVACION DEL AÑO 2010 CERTIEICA: QUE EL COMERCIANTE NO HA CUMPLIDO CON LA OBLIGACION LEGAL DE RENOVAR SU MATRICULA MERCANTIL DESDE 2011 CERTIFICA RENOVACION DE LA MATRÍCULA :",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 6,
+      "text" : "CAMARA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 7,
+      "end" : 9,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 10,
+      "end" : 18,
+      "text" : "COMERCIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 19,
+      "end" : 21,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 22,
+      "end" : 28,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 29,
+      "end" : 38,
+      "text" : "SUPERCADE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 39,
+      "end" : 47,
+      "text" : "AMERICAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 48,
+      "end" : 50,
+      "text" : "21",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 51,
+      "end" : 53,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 54,
+      "end" : 63,
+      "text" : "NOVIEMBRE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 64,
+      "end" : 66,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 67,
+      "end" : 71,
+      "text" : "2011",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 72,
+      "end" : 78,
+      "text" : "CAMARA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 79,
+      "end" : 81,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 82,
+      "end" : 90,
+      "text" : "COMEROOO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 91,
+      "end" : 93,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 94,
+      "end" : 100,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 101,
+      "end" : 112,
+      "text" : "CERTIFICADO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 113,
+      "end" : 115,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 116,
+      "end" : 125,
+      "text" : "MATRICULA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 126,
+      "end" : 128,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 129,
+      "end" : 136,
+      "text" : "PERSONA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 137,
+      "end" : 144,
+      "text" : "NATURAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 145,
+      "end" : 147,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 148,
+      "end" : 154,
+      "text" : "CAMARA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 155,
+      "end" : 157,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 158,
+      "end" : 166,
+      "text" : "COMERCIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t27",
+      "begin" : 167,
+      "end" : 169,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t28",
+      "begin" : 170,
+      "end" : 176,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t29",
+      "begin" : 176,
+      "end" : 177,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t30",
+      "begin" : 178,
+      "end" : 181,
+      "text" : "CON",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t31",
+      "begin" : 182,
+      "end" : 192,
+      "text" : "FUNDAMENTO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t32",
+      "begin" : 193,
+      "end" : 195,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t33",
+      "begin" : 196,
+      "end" : 199,
+      "text" : "LAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t34",
+      "begin" : 200,
+      "end" : 210,
+      "text" : "MATRICULAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t35",
+      "begin" : 211,
+      "end" : 212,
+      "text" : "E",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t36",
+      "begin" : 213,
+      "end" : 226,
+      "text" : "INSCRIPCIONES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t37",
+      "begin" : 227,
+      "end" : 230,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t38",
+      "begin" : 231,
+      "end" : 239,
+      "text" : "REGISTRO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t39",
+      "begin" : 240,
+      "end" : 249,
+      "text" : "MERCANTIL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t40",
+      "begin" : 250,
+      "end" : 259,
+      "text" : "CERTIEICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t41",
+      "begin" : 259,
+      "end" : 260,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t42",
+      "begin" : 261,
+      "end" : 267,
+      "text" : "NOMBRE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t43",
+      "begin" : 268,
+      "end" : 277,
+      "text" : "RODRIGUEZ",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t44",
+      "begin" : 278,
+      "end" : 284,
+      "text" : "MURCIA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t45",
+      "begin" : 285,
+      "end" : 290,
+      "text" : "JULIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t46",
+      "begin" : 291,
+      "end" : 294,
+      "text" : "C.C",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t47",
+      "begin" : 295,
+      "end" : 301,
+      "text" : "194459",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t48",
+      "begin" : 302,
+      "end" : 305,
+      "text" : "NIT",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t49",
+      "begin" : 305,
+      "end" : 306,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t50",
+      "begin" : 307,
+      "end" : 315,
+      "text" : "194459-9",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t51",
+      "begin" : 316,
+      "end" : 325,
+      "text" : "CERTIFICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t52",
+      "begin" : 325,
+      "end" : 326,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t53",
+      "begin" : 327,
+      "end" : 336,
+      "text" : "MATRICULA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t54",
+      "begin" : 337,
+      "end" : 339,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t55",
+      "begin" : 340,
+      "end" : 348,
+      "text" : "00784836",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t56",
+      "begin" : 349,
+      "end" : 352,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t57",
+      "begin" : 353,
+      "end" : 355,
+      "text" : "23",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t58",
+      "begin" : 356,
+      "end" : 358,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t59",
+      "begin" : 359,
+      "end" : 364,
+      "text" : "ABRIL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t60",
+      "begin" : 365,
+      "end" : 367,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t61",
+      "begin" : 368,
+      "end" : 372,
+      "text" : "1997",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t62",
+      "begin" : 373,
+      "end" : 382,
+      "text" : "CERTIEICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t63",
+      "begin" : 383,
+      "end" : 392,
+      "text" : "DIRECCION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t64",
+      "begin" : 393,
+      "end" : 395,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t65",
+      "begin" : 396,
+      "end" : 398,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t66",
+      "begin" : 399,
+      "end" : 408,
+      "text" : "IFICACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t67",
+      "begin" : 409,
+      "end" : 417,
+      "text" : "JUDICIAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t68",
+      "begin" : 418,
+      "end" : 419,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t69",
+      "begin" : 420,
+      "end" : 422,
+      "text" : "CL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t70",
+      "begin" : 423,
+      "end" : 425,
+      "text" : "54",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t71",
+      "begin" : 426,
+      "end" : 429,
+      "text" : "SUR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t72",
+      "begin" : 430,
+      "end" : 432,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t73",
+      "begin" : 434,
+      "end" : 440,
+      "text" : "87G-02",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t74",
+      "begin" : 441,
+      "end" : 450,
+      "text" : "MUNICIPIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t75",
+      "begin" : 451,
+      "end" : 457,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t76",
+      "begin" : 458,
+      "end" : 462,
+      "text" : "D.C.",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t77",
+      "begin" : 463,
+      "end" : 468,
+      "text" : "EMAIL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t78",
+      "begin" : 469,
+      "end" : 481,
+      "text" : "NOTIFICACİON",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t79",
+      "begin" : 482,
+      "end" : 490,
+      "text" : "JUDICIAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t80",
+      "begin" : 491,
+      "end" : 492,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t81",
+      "begin" : 493,
+      "end" : 513,
+      "text" : "CARPINTERIAMETALICAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t82",
+      "begin" : 514,
+      "end" : 534,
+      "text" : "RODRIGUEZ@HOTMAIL.CO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t83",
+      "begin" : 535,
+      "end" : 544,
+      "text" : "DIRECCION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t84",
+      "begin" : 545,
+      "end" : 554,
+      "text" : "COMERCIAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t85",
+      "begin" : 555,
+      "end" : 557,
+      "text" : "DG",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t86",
+      "begin" : 558,
+      "end" : 560,
+      "text" : "54",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t87",
+      "begin" : 561,
+      "end" : 563,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t88",
+      "begin" : 565,
+      "end" : 571,
+      "text" : "87G-12",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t89",
+      "begin" : 572,
+      "end" : 581,
+      "text" : "MUNICIPIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t90",
+      "begin" : 582,
+      "end" : 583,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t91",
+      "begin" : 584,
+      "end" : 590,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t92",
+      "begin" : 591,
+      "end" : 594,
+      "text" : "D.C",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t93",
+      "begin" : 595,
+      "end" : 600,
+      "text" : "EMAIL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t94",
+      "begin" : 601,
+      "end" : 610,
+      "text" : "COMERCIAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t95",
+      "begin" : 610,
+      "end" : 611,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t96",
+      "begin" : 612,
+      "end" : 652,
+      "text" : "CARPINTERIAMETALICASRODRIGUEZCHOTMAIL.CO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t97",
+      "begin" : 653,
+      "end" : 665,
+      "text" : "*ADVERTENCIA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t98",
+      "begin" : 666,
+      "end" : 671,
+      "text" : "ESTOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t99",
+      "begin" : 672,
+      "end" : 677,
+      "text" : "DATOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t100",
+      "begin" : 678,
+      "end" : 690,
+      "text" : "CORRESPONDEN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t101",
+      "begin" : 691,
+      "end" : 692,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t102",
+      "begin" : 693,
+      "end" : 695,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t103",
+      "begin" : 696,
+      "end" : 702,
+      "text" : "ULTIMA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t104",
+      "begin" : 703,
+      "end" : 714,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t105",
+      "begin" : 715,
+      "end" : 717,
+      "text" : "**",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t106",
+      "begin" : 718,
+      "end" : 730,
+      "text" : "SUMINISTRADA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t107",
+      "begin" : 731,
+      "end" : 734,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t108",
+      "begin" : 735,
+      "end" : 737,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t109",
+      "begin" : 738,
+      "end" : 749,
+      "text" : "COMERCIANTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t110",
+      "begin" : 750,
+      "end" : 752,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t111",
+      "begin" : 753,
+      "end" : 755,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t112",
+      "begin" : 756,
+      "end" : 766,
+      "text" : "FORMULARIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t113",
+      "begin" : 767,
+      "end" : 769,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t114",
+      "begin" : 770,
+      "end" : 780,
+      "text" : "MATRICULA*",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t115",
+      "begin" : 781,
+      "end" : 784,
+      "text" : "Y/O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t116",
+      "begin" : 785,
+      "end" : 795,
+      "text" : "RENOVACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t117",
+      "begin" : 796,
+      "end" : 799,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t118",
+      "begin" : 800,
+      "end" : 803,
+      "text" : "AÑO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t119",
+      "begin" : 804,
+      "end" : 808,
+      "text" : "2010",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t120",
+      "begin" : 809,
+      "end" : 818,
+      "text" : "CERTIEICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t121",
+      "begin" : 818,
+      "end" : 819,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t122",
+      "begin" : 820,
+      "end" : 823,
+      "text" : "QUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t123",
+      "begin" : 824,
+      "end" : 826,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t124",
+      "begin" : 827,
+      "end" : 838,
+      "text" : "COMERCIANTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t125",
+      "begin" : 839,
+      "end" : 841,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t126",
+      "begin" : 842,
+      "end" : 844,
+      "text" : "HA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t127",
+      "begin" : 845,
+      "end" : 853,
+      "text" : "CUMPLIDO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t128",
+      "begin" : 854,
+      "end" : 857,
+      "text" : "CON",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t129",
+      "begin" : 858,
+      "end" : 860,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t130",
+      "begin" : 861,
+      "end" : 871,
+      "text" : "OBLIGACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t131",
+      "begin" : 872,
+      "end" : 877,
+      "text" : "LEGAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t132",
+      "begin" : 878,
+      "end" : 880,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t133",
+      "begin" : 881,
+      "end" : 888,
+      "text" : "RENOVAR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t134",
+      "begin" : 889,
+      "end" : 891,
+      "text" : "SU",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t135",
+      "begin" : 892,
+      "end" : 901,
+      "text" : "MATRICULA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t136",
+      "begin" : 902,
+      "end" : 911,
+      "text" : "MERCANTIL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t137",
+      "begin" : 912,
+      "end" : 917,
+      "text" : "DESDE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t138",
+      "begin" : 918,
+      "end" : 922,
+      "text" : "2011",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t139",
+      "begin" : 923,
+      "end" : 932,
+      "text" : "CERTIFICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t140",
+      "begin" : 933,
+      "end" : 943,
+      "text" : "RENOVACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t141",
+      "begin" : 944,
+      "end" : 946,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t142",
+      "begin" : 947,
+      "end" : 949,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t143",
+      "begin" : 950,
+      "end" : 959,
+      "text" : "MATRÍCULA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t144",
+      "begin" : 960,
+      "end" : 961,
+      "text" : ":",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 962,
+    "end" : 1822,
+    "text" : "EL 15 DE JUNIO DE 2010 ULTIMO AÑO RENOVADO2010 TOTAL ACTIVOS TOTAL ACTIVOS SIN AJUSTES POR INFLACION 95,000,000 ACTIVIDAD ECONOMICA FABRICACION ELEMENTOS METALICOS, ORNAMENTACION PUERTAS, VENTANAS, REJAS Y VERJAS / ALQUILER DE VEHICULOS DE CARGA CON CONDUCTOR : 120,000,000 CERTIFICA: PROPIETARIO DE LOS SIGUIENTES ESTABLECIMIENTOS DE Comercio NOMBRE CARPINTERIA METALICA RODRIGUEZ DIRECCION COMERCIAL : DG 54 SUR No  87G-02 MUNICIPIO : BOGOTA D.C MATRICULA NO 00784839 DE 23 DE ABRIL DE 1997 RENOVACION DE LA MATRICULA EL 15 DE JUNIO DE 2010 ULTIMO AÑO RENOVADO 2010 CERTIFICA LA INFORMACION ANTERIOR HA SIDO TOMADA DIRECTAMENTE DEL FORMULARIO DE MATRICULA DILIGENCIADO POR EL COMERCIANTE  DE CONFORMIDAD CON LO ESTABLECIDO POR LA LEY 962 DE 2005, LOS ACTOS DE REGISTRO-AQUI-CERTIFICADOS-'QUEDAN EN-FIRME, CINCO-H DIAS-HABI DESPUES DE LA FECHA DE INSCRIPCION,",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 962,
+      "end" : 964,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 965,
+      "end" : 967,
+      "text" : "15",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 968,
+      "end" : 970,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 971,
+      "end" : 976,
+      "text" : "JUNIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 977,
+      "end" : 979,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 980,
+      "end" : 984,
+      "text" : "2010",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 985,
+      "end" : 991,
+      "text" : "ULTIMO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 992,
+      "end" : 995,
+      "text" : "AÑO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 996,
+      "end" : 1008,
+      "text" : "RENOVADO2010",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 1009,
+      "end" : 1014,
+      "text" : "TOTAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 1015,
+      "end" : 1022,
+      "text" : "ACTIVOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 1023,
+      "end" : 1028,
+      "text" : "TOTAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 1029,
+      "end" : 1036,
+      "text" : "ACTIVOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 1037,
+      "end" : 1040,
+      "text" : "SIN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 1041,
+      "end" : 1048,
+      "text" : "AJUSTES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 1049,
+      "end" : 1052,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 1053,
+      "end" : 1062,
+      "text" : "INFLACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 1063,
+      "end" : 1073,
+      "text" : "95,000,000",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 1074,
+      "end" : 1083,
+      "text" : "ACTIVIDAD",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 1084,
+      "end" : 1093,
+      "text" : "ECONOMICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 1094,
+      "end" : 1105,
+      "text" : "FABRICACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 1106,
+      "end" : 1115,
+      "text" : "ELEMENTOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t22",
+      "begin" : 1116,
+      "end" : 1125,
+      "text" : "METALICOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t23",
+      "begin" : 1125,
+      "end" : 1126,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t24",
+      "begin" : 1127,
+      "end" : 1140,
+      "text" : "ORNAMENTACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t25",
+      "begin" : 1141,
+      "end" : 1148,
+      "text" : "PUERTAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t26",
+      "begin" : 1148,
+      "end" : 1149,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t27",
+      "begin" : 1150,
+      "end" : 1158,
+      "text" : "VENTANAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t28",
+      "begin" : 1158,
+      "end" : 1159,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t29",
+      "begin" : 1160,
+      "end" : 1165,
+      "text" : "REJAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t30",
+      "begin" : 1166,
+      "end" : 1167,
+      "text" : "Y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t31",
+      "begin" : 1168,
+      "end" : 1174,
+      "text" : "VERJAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t32",
+      "begin" : 1175,
+      "end" : 1176,
+      "text" : "/",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t33",
+      "begin" : 1177,
+      "end" : 1185,
+      "text" : "ALQUILER",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t34",
+      "begin" : 1186,
+      "end" : 1188,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t35",
+      "begin" : 1189,
+      "end" : 1198,
+      "text" : "VEHICULOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t36",
+      "begin" : 1199,
+      "end" : 1201,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t37",
+      "begin" : 1202,
+      "end" : 1207,
+      "text" : "CARGA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t38",
+      "begin" : 1208,
+      "end" : 1211,
+      "text" : "CON",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t39",
+      "begin" : 1212,
+      "end" : 1221,
+      "text" : "CONDUCTOR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t40",
+      "begin" : 1222,
+      "end" : 1223,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t41",
+      "begin" : 1224,
+      "end" : 1235,
+      "text" : "120,000,000",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t42",
+      "begin" : 1236,
+      "end" : 1245,
+      "text" : "CERTIFICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t43",
+      "begin" : 1245,
+      "end" : 1246,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t44",
+      "begin" : 1247,
+      "end" : 1258,
+      "text" : "PROPIETARIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t45",
+      "begin" : 1259,
+      "end" : 1261,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t46",
+      "begin" : 1262,
+      "end" : 1265,
+      "text" : "LOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t47",
+      "begin" : 1266,
+      "end" : 1276,
+      "text" : "SIGUIENTES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t48",
+      "begin" : 1277,
+      "end" : 1293,
+      "text" : "ESTABLECIMIENTOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t49",
+      "begin" : 1294,
+      "end" : 1296,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t50",
+      "begin" : 1297,
+      "end" : 1305,
+      "text" : "Comercio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t51",
+      "begin" : 1306,
+      "end" : 1312,
+      "text" : "NOMBRE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t52",
+      "begin" : 1313,
+      "end" : 1324,
+      "text" : "CARPINTERIA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t53",
+      "begin" : 1325,
+      "end" : 1333,
+      "text" : "METALICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t54",
+      "begin" : 1334,
+      "end" : 1343,
+      "text" : "RODRIGUEZ",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t55",
+      "begin" : 1344,
+      "end" : 1353,
+      "text" : "DIRECCION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t56",
+      "begin" : 1354,
+      "end" : 1363,
+      "text" : "COMERCIAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t57",
+      "begin" : 1364,
+      "end" : 1365,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t58",
+      "begin" : 1366,
+      "end" : 1368,
+      "text" : "DG",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t59",
+      "begin" : 1369,
+      "end" : 1371,
+      "text" : "54",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t60",
+      "begin" : 1372,
+      "end" : 1375,
+      "text" : "SUR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t61",
+      "begin" : 1376,
+      "end" : 1378,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t62",
+      "begin" : 1380,
+      "end" : 1386,
+      "text" : "87G-02",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t63",
+      "begin" : 1387,
+      "end" : 1396,
+      "text" : "MUNICIPIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t64",
+      "begin" : 1397,
+      "end" : 1398,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t65",
+      "begin" : 1399,
+      "end" : 1405,
+      "text" : "BOGOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t66",
+      "begin" : 1406,
+      "end" : 1409,
+      "text" : "D.C",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t67",
+      "begin" : 1410,
+      "end" : 1419,
+      "text" : "MATRICULA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t68",
+      "begin" : 1420,
+      "end" : 1422,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t69",
+      "begin" : 1423,
+      "end" : 1431,
+      "text" : "00784839",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t70",
+      "begin" : 1432,
+      "end" : 1434,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t71",
+      "begin" : 1435,
+      "end" : 1437,
+      "text" : "23",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t72",
+      "begin" : 1438,
+      "end" : 1440,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t73",
+      "begin" : 1441,
+      "end" : 1446,
+      "text" : "ABRIL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t74",
+      "begin" : 1447,
+      "end" : 1449,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t75",
+      "begin" : 1450,
+      "end" : 1454,
+      "text" : "1997",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t76",
+      "begin" : 1455,
+      "end" : 1465,
+      "text" : "RENOVACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t77",
+      "begin" : 1466,
+      "end" : 1468,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t78",
+      "begin" : 1469,
+      "end" : 1471,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t79",
+      "begin" : 1472,
+      "end" : 1481,
+      "text" : "MATRICULA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t80",
+      "begin" : 1482,
+      "end" : 1484,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t81",
+      "begin" : 1485,
+      "end" : 1487,
+      "text" : "15",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t82",
+      "begin" : 1488,
+      "end" : 1490,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t83",
+      "begin" : 1491,
+      "end" : 1496,
+      "text" : "JUNIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t84",
+      "begin" : 1497,
+      "end" : 1499,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t85",
+      "begin" : 1500,
+      "end" : 1504,
+      "text" : "2010",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t86",
+      "begin" : 1505,
+      "end" : 1511,
+      "text" : "ULTIMO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t87",
+      "begin" : 1512,
+      "end" : 1515,
+      "text" : "AÑO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t88",
+      "begin" : 1516,
+      "end" : 1524,
+      "text" : "RENOVADO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t89",
+      "begin" : 1525,
+      "end" : 1529,
+      "text" : "2010",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t90",
+      "begin" : 1530,
+      "end" : 1539,
+      "text" : "CERTIFICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t91",
+      "begin" : 1540,
+      "end" : 1542,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t92",
+      "begin" : 1543,
+      "end" : 1554,
+      "text" : "INFORMACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t93",
+      "begin" : 1555,
+      "end" : 1563,
+      "text" : "ANTERIOR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t94",
+      "begin" : 1564,
+      "end" : 1566,
+      "text" : "HA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t95",
+      "begin" : 1567,
+      "end" : 1571,
+      "text" : "SIDO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t96",
+      "begin" : 1572,
+      "end" : 1578,
+      "text" : "TOMADA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t97",
+      "begin" : 1579,
+      "end" : 1591,
+      "text" : "DIRECTAMENTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t98",
+      "begin" : 1592,
+      "end" : 1595,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t99",
+      "begin" : 1596,
+      "end" : 1606,
+      "text" : "FORMULARIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t100",
+      "begin" : 1607,
+      "end" : 1609,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t101",
+      "begin" : 1610,
+      "end" : 1619,
+      "text" : "MATRICULA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t102",
+      "begin" : 1620,
+      "end" : 1632,
+      "text" : "DILIGENCIADO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t103",
+      "begin" : 1633,
+      "end" : 1636,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t104",
+      "begin" : 1637,
+      "end" : 1639,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t105",
+      "begin" : 1640,
+      "end" : 1651,
+      "text" : "COMERCIANTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t106",
+      "begin" : 1653,
+      "end" : 1655,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t107",
+      "begin" : 1656,
+      "end" : 1667,
+      "text" : "CONFORMIDAD",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t108",
+      "begin" : 1668,
+      "end" : 1671,
+      "text" : "CON",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t109",
+      "begin" : 1672,
+      "end" : 1674,
+      "text" : "LO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t110",
+      "begin" : 1675,
+      "end" : 1686,
+      "text" : "ESTABLECIDO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t111",
+      "begin" : 1687,
+      "end" : 1690,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t112",
+      "begin" : 1691,
+      "end" : 1693,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t113",
+      "begin" : 1694,
+      "end" : 1697,
+      "text" : "LEY",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t114",
+      "begin" : 1698,
+      "end" : 1701,
+      "text" : "962",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t115",
+      "begin" : 1702,
+      "end" : 1704,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t116",
+      "begin" : 1705,
+      "end" : 1709,
+      "text" : "2005",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t117",
+      "begin" : 1709,
+      "end" : 1710,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t118",
+      "begin" : 1711,
+      "end" : 1714,
+      "text" : "LOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t119",
+      "begin" : 1715,
+      "end" : 1720,
+      "text" : "ACTOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t120",
+      "begin" : 1721,
+      "end" : 1723,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t121",
+      "begin" : 1724,
+      "end" : 1732,
+      "text" : "REGISTRO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t122",
+      "begin" : 1732,
+      "end" : 1733,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t123",
+      "begin" : 1733,
+      "end" : 1737,
+      "text" : "AQUI",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t124",
+      "begin" : 1737,
+      "end" : 1738,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t125",
+      "begin" : 1738,
+      "end" : 1750,
+      "text" : "CERTIFICADOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t126",
+      "begin" : 1750,
+      "end" : 1751,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t127",
+      "begin" : 1751,
+      "end" : 1752,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t128",
+      "begin" : 1752,
+      "end" : 1758,
+      "text" : "QUEDAN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t129",
+      "begin" : 1759,
+      "end" : 1761,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t130",
+      "begin" : 1761,
+      "end" : 1762,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t131",
+      "begin" : 1762,
+      "end" : 1767,
+      "text" : "FIRME",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t132",
+      "begin" : 1767,
+      "end" : 1768,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t133",
+      "begin" : 1769,
+      "end" : 1776,
+      "text" : "CINCO-H",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t134",
+      "begin" : 1777,
+      "end" : 1781,
+      "text" : "DIAS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t135",
+      "begin" : 1781,
+      "end" : 1782,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t136",
+      "begin" : 1782,
+      "end" : 1786,
+      "text" : "HABI",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t137",
+      "begin" : 1787,
+      "end" : 1794,
+      "text" : "DESPUES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t138",
+      "begin" : 1795,
+      "end" : 1797,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t139",
+      "begin" : 1798,
+      "end" : 1800,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t140",
+      "begin" : 1801,
+      "end" : 1806,
+      "text" : "FECHA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t141",
+      "begin" : 1807,
+      "end" : 1809,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t142",
+      "begin" : 1810,
+      "end" : 1821,
+      "text" : "INSCRIPCION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t143",
+      "begin" : 1821,
+      "end" : 1822,
+      "text" : ",",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 1823,
+    "end" : 2272,
+    "text" : "SIEMPRE QUE NO SEAN OBJETO DE RECURSOS EN LA VIA GUBERNATĪVA **EL PRESENTE CERTIFICADO NO CONSTITUYE PERMISO DE FUNCIONAMIENTO EN NINGUN CASO SEÑOR EMPRESARIO, SI SU EMPRESA TIENE ACTIVOS INFERIORES A 30.000 SMLMV Y UNA PLANTA DE PERSONAL DE MENOS DE 200 TRABAJADORES, USTED TIENE DERECHO A RECIBIR UN DESCUENTO EN EL PAGO DE LOS PARAFISCALES DE 75% EN EL PRIMER AÑO DE CONSTITUCION DE SU EMPRESA, DE 50% EN EL SEGUNDO AÑO Y DE 25% EN EL TERCER AÑO.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 1823,
+      "end" : 1830,
+      "text" : "SIEMPRE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 1831,
+      "end" : 1834,
+      "text" : "QUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 1835,
+      "end" : 1837,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 1838,
+      "end" : 1842,
+      "text" : "SEAN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 1843,
+      "end" : 1849,
+      "text" : "OBJETO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 1850,
+      "end" : 1852,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 1853,
+      "end" : 1861,
+      "text" : "RECURSOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 1862,
+      "end" : 1864,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 1865,
+      "end" : 1867,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 1868,
+      "end" : 1871,
+      "text" : "VIA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 1872,
+      "end" : 1883,
+      "text" : "GUBERNATĪVA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t11",
+      "begin" : 1884,
+      "end" : 1886,
+      "text" : "**",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t12",
+      "begin" : 1886,
+      "end" : 1888,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t13",
+      "begin" : 1889,
+      "end" : 1897,
+      "text" : "PRESENTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t14",
+      "begin" : 1898,
+      "end" : 1909,
+      "text" : "CERTIFICADO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t15",
+      "begin" : 1910,
+      "end" : 1912,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t16",
+      "begin" : 1913,
+      "end" : 1923,
+      "text" : "CONSTITUYE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t17",
+      "begin" : 1924,
+      "end" : 1931,
+      "text" : "PERMISO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t18",
+      "begin" : 1932,
+      "end" : 1934,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t19",
+      "begin" : 1935,
+      "end" : 1949,
+      "text" : "FUNCIONAMIENTO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t20",
+      "begin" : 1950,
+      "end" : 1952,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t21",
+      "begin" : 1953,
+      "end" : 1959,
+      "text" : "NINGUN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t22",
+      "begin" : 1960,
+      "end" : 1964,
+      "text" : "CASO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t23",
+      "begin" : 1965,
+      "end" : 1970,
+      "text" : "SEÑOR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t24",
+      "begin" : 1971,
+      "end" : 1981,
+      "text" : "EMPRESARIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t25",
+      "begin" : 1981,
+      "end" : 1982,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t26",
+      "begin" : 1983,
+      "end" : 1985,
+      "text" : "SI",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t27",
+      "begin" : 1986,
+      "end" : 1988,
+      "text" : "SU",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t28",
+      "begin" : 1989,
+      "end" : 1996,
+      "text" : "EMPRESA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t29",
+      "begin" : 1997,
+      "end" : 2002,
+      "text" : "TIENE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t30",
+      "begin" : 2003,
+      "end" : 2010,
+      "text" : "ACTIVOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t31",
+      "begin" : 2011,
+      "end" : 2021,
+      "text" : "INFERIORES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t32",
+      "begin" : 2022,
+      "end" : 2023,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t33",
+      "begin" : 2024,
+      "end" : 2030,
+      "text" : "30.000",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t34",
+      "begin" : 2031,
+      "end" : 2036,
+      "text" : "SMLMV",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t35",
+      "begin" : 2037,
+      "end" : 2038,
+      "text" : "Y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t36",
+      "begin" : 2039,
+      "end" : 2042,
+      "text" : "UNA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t37",
+      "begin" : 2043,
+      "end" : 2049,
+      "text" : "PLANTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t38",
+      "begin" : 2050,
+      "end" : 2052,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t39",
+      "begin" : 2053,
+      "end" : 2061,
+      "text" : "PERSONAL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t40",
+      "begin" : 2062,
+      "end" : 2064,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t41",
+      "begin" : 2065,
+      "end" : 2070,
+      "text" : "MENOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t42",
+      "begin" : 2071,
+      "end" : 2073,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t43",
+      "begin" : 2074,
+      "end" : 2077,
+      "text" : "200",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t44",
+      "begin" : 2078,
+      "end" : 2090,
+      "text" : "TRABAJADORES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t45",
+      "begin" : 2090,
+      "end" : 2091,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t46",
+      "begin" : 2092,
+      "end" : 2097,
+      "text" : "USTED",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t47",
+      "begin" : 2098,
+      "end" : 2103,
+      "text" : "TIENE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t48",
+      "begin" : 2104,
+      "end" : 2111,
+      "text" : "DERECHO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t49",
+      "begin" : 2112,
+      "end" : 2113,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t50",
+      "begin" : 2114,
+      "end" : 2121,
+      "text" : "RECIBIR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t51",
+      "begin" : 2122,
+      "end" : 2124,
+      "text" : "UN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t52",
+      "begin" : 2125,
+      "end" : 2134,
+      "text" : "DESCUENTO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t53",
+      "begin" : 2135,
+      "end" : 2137,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t54",
+      "begin" : 2138,
+      "end" : 2140,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t55",
+      "begin" : 2141,
+      "end" : 2145,
+      "text" : "PAGO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t56",
+      "begin" : 2146,
+      "end" : 2148,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t57",
+      "begin" : 2149,
+      "end" : 2152,
+      "text" : "LOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t58",
+      "begin" : 2153,
+      "end" : 2165,
+      "text" : "PARAFISCALES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t59",
+      "begin" : 2166,
+      "end" : 2168,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t60",
+      "begin" : 2169,
+      "end" : 2171,
+      "text" : "75",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t61",
+      "begin" : 2171,
+      "end" : 2172,
+      "text" : "%",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t62",
+      "begin" : 2173,
+      "end" : 2175,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t63",
+      "begin" : 2176,
+      "end" : 2178,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t64",
+      "begin" : 2179,
+      "end" : 2185,
+      "text" : "PRIMER",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t65",
+      "begin" : 2186,
+      "end" : 2189,
+      "text" : "AÑO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t66",
+      "begin" : 2190,
+      "end" : 2192,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t67",
+      "begin" : 2193,
+      "end" : 2205,
+      "text" : "CONSTITUCION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t68",
+      "begin" : 2206,
+      "end" : 2208,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t69",
+      "begin" : 2209,
+      "end" : 2211,
+      "text" : "SU",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t70",
+      "begin" : 2212,
+      "end" : 2219,
+      "text" : "EMPRESA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t71",
+      "begin" : 2219,
+      "end" : 2220,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t72",
+      "begin" : 2221,
+      "end" : 2223,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t73",
+      "begin" : 2224,
+      "end" : 2226,
+      "text" : "50",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t74",
+      "begin" : 2226,
+      "end" : 2227,
+      "text" : "%",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t75",
+      "begin" : 2228,
+      "end" : 2230,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t76",
+      "begin" : 2231,
+      "end" : 2233,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t77",
+      "begin" : 2234,
+      "end" : 2241,
+      "text" : "SEGUNDO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t78",
+      "begin" : 2242,
+      "end" : 2245,
+      "text" : "AÑO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t79",
+      "begin" : 2246,
+      "end" : 2247,
+      "text" : "Y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t80",
+      "begin" : 2248,
+      "end" : 2250,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t81",
+      "begin" : 2251,
+      "end" : 2253,
+      "text" : "25",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t82",
+      "begin" : 2253,
+      "end" : 2254,
+      "text" : "%",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t83",
+      "begin" : 2255,
+      "end" : 2257,
+      "text" : "EN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t84",
+      "begin" : 2258,
+      "end" : 2260,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t85",
+      "begin" : 2261,
+      "end" : 2267,
+      "text" : "TERCER",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t86",
+      "begin" : 2268,
+      "end" : 2271,
+      "text" : "AÑO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t87",
+      "begin" : 2271,
+      "end" : 2272,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s3",
+    "begin" : 2273,
+    "end" : 2311,
+    "text" : "LEY 590 DE 2000 Y DECRETO 525 DE 2009.",
+    "tokens" : [ {
+      "id" : "s3-t0",
+      "begin" : 2273,
+      "end" : 2276,
+      "text" : "LEY",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t1",
+      "begin" : 2277,
+      "end" : 2280,
+      "text" : "590",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t2",
+      "begin" : 2281,
+      "end" : 2283,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t3",
+      "begin" : 2284,
+      "end" : 2288,
+      "text" : "2000",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t4",
+      "begin" : 2289,
+      "end" : 2290,
+      "text" : "Y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t5",
+      "begin" : 2291,
+      "end" : 2298,
+      "text" : "DECRETO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t6",
+      "begin" : 2299,
+      "end" : 2302,
+      "text" : "525",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t7",
+      "begin" : 2303,
+      "end" : 2305,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t8",
+      "begin" : 2306,
+      "end" : 2310,
+      "text" : "2009",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t9",
+      "begin" : 2310,
+      "end" : 2311,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s4",
+    "begin" : 2312,
+    "end" : 2631,
+    "text" : "EL SECRETARIO DE LA CAMARA DE COMERCIO, VALOR $ 1,900 DE CONFORMIDAD CON EL DECRETO 2150 DE 1995 Y LA AUTORIZACION IMPARTIDA POR LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO, MEDIANTE EL OFICIO DEL 18 DE NO IEMBRE DE 1996, LA FIRMA MECANICA QUE APARECE A CONTINUACION TIENE PLENA VALIDEZ PARA TODOS LOS EFECTOS LEGALES \"",
+    "tokens" : [ {
+      "id" : "s4-t0",
+      "begin" : 2312,
+      "end" : 2314,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t1",
+      "begin" : 2315,
+      "end" : 2325,
+      "text" : "SECRETARIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t2",
+      "begin" : 2326,
+      "end" : 2328,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t3",
+      "begin" : 2329,
+      "end" : 2331,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t4",
+      "begin" : 2332,
+      "end" : 2338,
+      "text" : "CAMARA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t5",
+      "begin" : 2339,
+      "end" : 2341,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t6",
+      "begin" : 2342,
+      "end" : 2350,
+      "text" : "COMERCIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t7",
+      "begin" : 2350,
+      "end" : 2351,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t8",
+      "begin" : 2352,
+      "end" : 2357,
+      "text" : "VALOR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t9",
+      "begin" : 2358,
+      "end" : 2359,
+      "text" : "$",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t10",
+      "begin" : 2360,
+      "end" : 2365,
+      "text" : "1,900",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t11",
+      "begin" : 2366,
+      "end" : 2368,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t12",
+      "begin" : 2369,
+      "end" : 2380,
+      "text" : "CONFORMIDAD",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t13",
+      "begin" : 2381,
+      "end" : 2384,
+      "text" : "CON",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t14",
+      "begin" : 2385,
+      "end" : 2387,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t15",
+      "begin" : 2388,
+      "end" : 2395,
+      "text" : "DECRETO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t16",
+      "begin" : 2396,
+      "end" : 2400,
+      "text" : "2150",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t17",
+      "begin" : 2401,
+      "end" : 2403,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t18",
+      "begin" : 2404,
+      "end" : 2408,
+      "text" : "1995",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t19",
+      "begin" : 2409,
+      "end" : 2410,
+      "text" : "Y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t20",
+      "begin" : 2411,
+      "end" : 2413,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t21",
+      "begin" : 2414,
+      "end" : 2426,
+      "text" : "AUTORIZACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t22",
+      "begin" : 2427,
+      "end" : 2436,
+      "text" : "IMPARTIDA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t23",
+      "begin" : 2437,
+      "end" : 2440,
+      "text" : "POR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t24",
+      "begin" : 2441,
+      "end" : 2443,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t25",
+      "begin" : 2444,
+      "end" : 2460,
+      "text" : "SUPERINTENDENCIA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t26",
+      "begin" : 2461,
+      "end" : 2463,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t27",
+      "begin" : 2464,
+      "end" : 2473,
+      "text" : "INDUSTRIA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t28",
+      "begin" : 2474,
+      "end" : 2475,
+      "text" : "Y",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t29",
+      "begin" : 2476,
+      "end" : 2484,
+      "text" : "COMERCIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t30",
+      "begin" : 2484,
+      "end" : 2485,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t31",
+      "begin" : 2486,
+      "end" : 2494,
+      "text" : "MEDIANTE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t32",
+      "begin" : 2495,
+      "end" : 2497,
+      "text" : "EL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t33",
+      "begin" : 2498,
+      "end" : 2504,
+      "text" : "OFICIO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t34",
+      "begin" : 2505,
+      "end" : 2508,
+      "text" : "DEL",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t35",
+      "begin" : 2509,
+      "end" : 2511,
+      "text" : "18",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t36",
+      "begin" : 2512,
+      "end" : 2514,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t37",
+      "begin" : 2515,
+      "end" : 2517,
+      "text" : "NO",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t38",
+      "begin" : 2518,
+      "end" : 2524,
+      "text" : "IEMBRE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t39",
+      "begin" : 2525,
+      "end" : 2527,
+      "text" : "DE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t40",
+      "begin" : 2528,
+      "end" : 2532,
+      "text" : "1996",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t41",
+      "begin" : 2532,
+      "end" : 2533,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t42",
+      "begin" : 2534,
+      "end" : 2536,
+      "text" : "LA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t43",
+      "begin" : 2537,
+      "end" : 2542,
+      "text" : "FIRMA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t44",
+      "begin" : 2543,
+      "end" : 2551,
+      "text" : "MECANICA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t45",
+      "begin" : 2552,
+      "end" : 2555,
+      "text" : "QUE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t46",
+      "begin" : 2556,
+      "end" : 2563,
+      "text" : "APARECE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t47",
+      "begin" : 2564,
+      "end" : 2565,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t48",
+      "begin" : 2566,
+      "end" : 2578,
+      "text" : "CONTINUACION",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t49",
+      "begin" : 2579,
+      "end" : 2584,
+      "text" : "TIENE",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t50",
+      "begin" : 2585,
+      "end" : 2590,
+      "text" : "PLENA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t51",
+      "begin" : 2591,
+      "end" : 2598,
+      "text" : "VALIDEZ",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t52",
+      "begin" : 2599,
+      "end" : 2603,
+      "text" : "PARA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t53",
+      "begin" : 2604,
+      "end" : 2609,
+      "text" : "TODOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t54",
+      "begin" : 2610,
+      "end" : 2613,
+      "text" : "LOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t55",
+      "begin" : 2614,
+      "end" : 2621,
+      "text" : "EFECTOS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t56",
+      "begin" : 2622,
+      "end" : 2629,
+      "text" : "LEGALES",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t57",
+      "begin" : 2630,
+      "end" : 2631,
+      "text" : "\"",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m9",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 48,
+    "end" : 71,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m10",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "PERSONA_NATURAL",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_PERSONA_NATURAL",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "PERSONA",
+    "begin" : 268,
+    "end" : 290,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TIPO_DOCUMENTO_IDENTIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "CEDULA_CIUDADANIA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TIPO_DOCUMENTO_IDENTIDAD",
+    "begin" : 291,
+    "end" : 294,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DOCUMENTO_IDENTIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DOCUMENTO_IDENTIDAD",
+    "begin" : 295,
+    "end" : 301,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TIPO_DOCUMENTO_IDENTIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "NIT",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TIPO_DOCUMENTO_IDENTIDAD",
+    "begin" : 302,
+    "end" : 305,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m6",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DOCUMENTO_IDENTIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DOCUMENTO_IDENTIDAD",
+    "begin" : 307,
+    "end" : 315,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m8",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TITULO_FECHA_MATRICULA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TITULO_FECHA_MATRICULA",
+    "begin" : 327,
+    "end" : 336,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m7",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "FECHA_MATRICULA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_FECHA_MATRICULA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 353,
+    "end" : 372,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m6",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 962,
+    "end" : 984,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACTIVIDAD",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACTIVIDAD",
+    "begin" : 1074,
+    "end" : 1221,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TITULO_NOMBRE_O_RAZON_SOCIAL",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TITULO_NOMBRE_O_RAZON_SOCIAL",
+    "begin" : 1277,
+    "end" : 1312,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "EMPRESA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "EMPRESA",
+    "begin" : 1313,
+    "end" : 1343,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "TITULO_FECHA_MATRICULA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "TITULO_FECHA_MATRICULA",
+    "begin" : 1410,
+    "end" : 1419,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "FECHA_MATRICULA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_FECHA_MATRICULA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 1435,
+    "end" : 1454,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m7",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 1485,
+    "end" : 1504,
+    "inCoref" : false
+  }, {
+    "id" : "s4-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "OTRA_FECHA",
+      "SIRE_ENTITY_SUBTYPE" : "SUBTIPO_OTRA_FECHA",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "FECHA",
+    "begin" : 2509,
+    "end" : 2532,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r3",
+    "properties" : { },
+    "type" : "documento_identidad_tiene_tipo_documento_identidad",
+    "args" : [ "s0-m4", "s0-m3" ]
+  }, {
+    "id" : "s0-r4",
+    "properties" : { },
+    "type" : "documento_identidad_tiene_tipo_documento_identidad",
+    "args" : [ "s0-m6", "s0-m5" ]
+  }, {
+    "id" : "s0-r5",
+    "properties" : { },
+    "type" : "es_titulo_de_fecha_matricula",
+    "args" : [ "s0-m8", "s0-m7" ]
+  }, {
+    "id" : "s0-r6",
+    "properties" : { },
+    "type" : "persona_tiene_tipo_documento_identidad",
+    "args" : [ "s0-m10", "s0-m3" ]
+  }, {
+    "id" : "s0-r7",
+    "properties" : { },
+    "type" : "persona_tiene_documento_identidad",
+    "args" : [ "s0-m10", "s0-m4" ]
+  }, {
+    "id" : "s0-r8",
+    "properties" : { },
+    "type" : "persona_tiene_tipo_documento_identidad",
+    "args" : [ "s0-m10", "s0-m5" ]
+  }, {
+    "id" : "s0-r9",
+    "properties" : { },
+    "type" : "persona_tiene_documento_identidad",
+    "args" : [ "s0-m10", "s0-m6" ]
+  }, {
+    "id" : "s0-r10",
+    "properties" : { },
+    "type" : "documento_identidad_tiene_tipo_documento_identidad",
+    "args" : [ "s0-m4", "s0-m5" ]
+  }, {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "es_titulo_de_empresa",
+    "args" : [ "s1-m3", "s1-m2" ]
+  }, {
+    "id" : "s1-r2",
+    "properties" : { },
+    "type" : "es_titulo_de_fecha_matricula",
+    "args" : [ "s1-m4", "s1-m5" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

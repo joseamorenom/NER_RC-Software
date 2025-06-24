@@ -1,0 +1,1 @@
+{"sentences": {"tokens": [["The", "system", "as", "described", "above", "has", "its", "greatest", "application", "in", "an", "arrayed", "configuration", "of", "antenna", "elements", "."]], "entities": [["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "Whole", "O", "O", "Component", "O"]]}, "relations": ["Component-Whole"]}

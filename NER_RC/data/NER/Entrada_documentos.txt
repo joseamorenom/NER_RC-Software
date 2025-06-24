@@ -1,0 +1,11 @@
+{
+sentences: [
+   0 : {
+	text: "Frase ejemplo"
+	},
+   1:  {
+	text: "Frase dos de ejemplo"
+	}
+     
+   ]
+}
