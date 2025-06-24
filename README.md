@@ -65,10 +65,15 @@ cd NER_RC-Software
 
 La estructura final de tu carpeta debe verse así:
 NER_RC-Software/
+
 └── NER_RC/
+
 ├── models/      &lt;-- AQUÍ DEBE ESTAR LA CARPETA QUE DESCARGASTE
+
 ├── data/
+
 ├── src/
+
 └── requirements.txt
 
 #### Paso 3: Crear un Entorno Virtual (Recomendado)
